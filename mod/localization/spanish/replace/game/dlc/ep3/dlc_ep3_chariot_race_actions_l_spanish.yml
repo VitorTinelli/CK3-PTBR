@@ -1,0 +1,7 @@
+﻿l_spanish:
+ apa_celebrating_unexpected_overtake_title:0 "[first.GetShortUIName|U] ultrapassa [second.GetShortUIName|U]"
+ apa_cheering_on_competitors_title:0 "[first.GetShortUIName|U] e [second.GetShortUIName|U] se uniram em torno de seus corredores favoritos"
+ apa_donates_to_the_poor_title:0 "[first.GetShortUIName|U] doa para os [Glossary( 'hoi polloi', 'HOI_POLLOI_GLOSS' )]"
+ apa_exchanging_race_commentary_title:0 "[first.GetShortUIName|U] e [second.GetShortUIName|U], fazem amor, após serem inspirados pela intensidade das corridas"
+ apa_forging_alliances_title:0 "[apa_target.GetShortUIName|U] estende sua influência política"
+ apa_thunderous_applause_title:0 "[first.GetShortUIName|U], inspirado pelo estrondoso aplauso da multidão, ultrapassa [second.GetShortUIName|U]"

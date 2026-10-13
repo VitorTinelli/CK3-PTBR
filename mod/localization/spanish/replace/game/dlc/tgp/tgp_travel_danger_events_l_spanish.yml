@@ -1,0 +1,10 @@
+﻿l_spanish:
+ impressed_by_kindness:0 "Impressionado com a Bondade"
+ tgp_travel_danger_events.0001.a:0 "Meus homens limparão os escombros."
+ tgp_travel_danger_events.0001.b:0 "Tomarei [peasant_character_child.GetSheHe] sob minha proteção."
+ tgp_travel_danger_events.0001.c:0 "Não tenho tempo para isso!"
+ tgp_travel_danger_events.0001.desc:0 "\n\nQuando alcançamos as bordas de uma cidade arruinada, observo uma criança solitária entre os escombros. [peasant_character_child.GetSheHe|U] não me nota, enquanto [peasant_character_child.GetSheHe] tenta desesperadamente reconstruir o que parece ter sido uma antiga fazenda."
+ tgp_travel_danger_events.0001.earthquake:0 "A terra outrora fértil e a vila animada jazem em silêncio, desordenadas e cobertas de destroços, engolidas pela própria terra."
+ tgp_travel_danger_events.0001.flood:0 "Destroços cobrem a margem do rio, casas flutuando rio abaixo como folhas em um córrego. Uma vila inteira foi consumida pela correnteza."
+ tgp_travel_danger_events.0001.intro:0 "Viajando por [ROOT.Char.GetCurrentLocation.GetName], vejo os impactos do [disaster_situation.GetType.GetNameNoTooltip|l] por toda parte."
+ tgp_travel_danger_events.0001.t:0 "Vida Entre as Ruínas"

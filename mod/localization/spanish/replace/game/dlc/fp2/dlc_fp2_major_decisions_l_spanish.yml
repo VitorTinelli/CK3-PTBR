@@ -1,0 +1,6 @@
+﻿l_spanish:
+ secure_mediterranean_decision.a:0 "Desbloqueia o [casus_belli|E] #italic Conquista do Mediterrâneo#!, permitindo que você conquiste qualquer condado ao longo das costas do Mediterrâneo durante a duração do modificador da [house|E] enquanto controlar o [mediterranean_title.GetName]"
+ secure_mediterranean_decision.involved_notif:0 "[mediterranean_conqueror.GetPrimaryTitle.GetBaseName] Assegurou o Mediterrâneo"
+ secure_mediterranean_decision.involved_notif_desc:0 "A [mediterranean_house.GetName] unificou as ilhas de [mallorca.GetNameNoTier], [sardinas.GetNameNoTier] e [sicily.GetNameNoTier]. Declarando posse sobre o Mediterrâneo e criando um [casus_belli|E] válido contra seus condados costeiros do Mediterrâneo."
+ secure_mediterranean_decision:0 "Assegure o Mediterrâneo"
+ secure_mediterranean_decision_confirm:0 "Mare Nostrum!"

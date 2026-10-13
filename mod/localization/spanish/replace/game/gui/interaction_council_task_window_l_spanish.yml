@@ -1,0 +1,10 @@
+﻿l_spanish:
+ COUNCIL_TASK_INTERACTION_AUTO_FILLED:0 "@warning_icon! #X [ACTIVE_COUNCIL_TASK.GetPositionName] é preenchido automaticamente#!"
+ COUNCIL_TASK_INTERACTION_CURRENT:0 "Atual: [Character.GetUIName]"
+ COUNCIL_TASK_INTERACTION_CURRENT_YOU:0 "Sua posição atual"
+ COUNCIL_TASK_INTERACTION_NO_SELECTED_TASK:0 "@warning_icon! #X Nenhuma tarefa foi selecionada#!"
+ COUNCIL_TASK_INTERACTION_VACANT:0 "Atual: Vago"
+ COUNCIL_TASK_INTERACTION_WINDOW_PLAYER_SKILLS_LABEL:0 "[skills|E] de [GetPlayer.GetShortUINamePossessive|U]"
+ COUNCIL_TASK_INTERACTION_WINDOW_SELECTED_TASK:0 "Posição selecionada: [CouncilTaskInteractionWindow.GetSelectedTask.GetPositionName]"
+ COUNCIL_TASK_INTERACTION_WINDOW_SELECT_TASK:0 "Selecione uma posição do Conselho"
+ select_council_task_header:0 "Exigir Posição no Conselho"

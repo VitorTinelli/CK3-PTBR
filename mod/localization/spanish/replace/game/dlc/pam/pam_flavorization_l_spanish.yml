@@ -1,0 +1,10 @@
+﻿l_spanish:
+ clerical_elector_cardinalate:0 "Cardinalato"
+ clerical_region_duchy_catholic:0 "Arquidiocese"
+ clerical_region_duchy_east_christian:0 "$clerical_region_duchy_orthodox$"
+ clerical_region_duchy_fallback:0 "$clerical_region_duchy_catholic$"
+ clerical_region_duchy_metropolitanate:0 "$d_et_metropolitanate_prefix$"
+ clerical_region_duchy_orthodox:0 "Patriarcado"
+ clerical_region_duchy_patriarchate:0 "$clerical_region_duchy_orthodox$"
+ clerical_region_duchy_west_christian:0 "$clerical_region_duchy_catholic$"
+ monastery_christian:0 "Mosteiro"

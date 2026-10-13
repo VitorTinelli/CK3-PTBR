@@ -1,0 +1,8 @@
+dist/
+__pycache__/
+*.pyc
+.env
+.env.*
+*api-key*
+*api_key*
+*.log

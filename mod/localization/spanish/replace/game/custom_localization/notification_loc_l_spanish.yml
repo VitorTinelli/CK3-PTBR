@@ -1,0 +1,4 @@
+﻿l_spanish:
+ notification.hierarchy.liege:0 "Senhor Feudal"
+ notification.hierarchy.ruler:0 "Governante"
+ notification.hierarchy.vassal:0 "Vassalo"

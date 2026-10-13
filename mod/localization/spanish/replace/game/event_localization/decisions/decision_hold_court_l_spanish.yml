@@ -1,0 +1,8 @@
+﻿l_spanish:
+ hold_court_decision:0 "Audiência Pública"
+ hold_court_decision_confirm:0 "Ouvir Peticionários"
+ hold_court_decision_desc:0 "Para ser um governante bem-sucedido, devo realmente governar sobre os vários dilemas e situações que surgem dentro da minha esfera de influência.\n\nAo convidar oficialmente todos os meus súditos a irem até minha [ROOT.Char.Custom('ResidenceBuilding')] e me pedirem ajuda, poderei me manter informado, influenciar o equilíbrio de poder e mostrar visivelmente ao mundo que estou no comando."
+ hold_court_decision_effects:0 "Você convida seus convidados e súditos a lhe pedirem ajuda:\n$EFFECT_LIST_BULLET$ Você pode descobrir oportunidades exclusivas\n$EFFECT_LIST_BULLET$ Você pode influenciar situações em reinos estrangeiros\n$EFFECT_LIST_BULLET$ Você pode ganhar mais grandiosidade na Corte\n$EFFECT_LIST_BULLET$ Você pode ganhar ou perder Opinião, Prestígio, Ouro e muito mais"
+ hold_court_decision_tooltip:0 "Exerça sua autoridade ao [holding_court|E]"
+ hold_court_gain_grandeur_tooltip:0 "Você aumentará sua [court_grandeur|E]"
+ hold_court_gain_legitimacy_tooltip:0 "Você aumentará sua [legitimacy|E]"

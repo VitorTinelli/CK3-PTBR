@@ -1,0 +1,11 @@
+﻿l_spanish:
+ INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "Excesso de [court_grandeur|E] de [recipient.GetShortUINamePossessive|U]: $VALUE|=+0$"
+ INDEBT_GUEST_INTRIGUE_ACTOR:0 "[intrigue|E] de [actor.GetShortUINamePossessive|U]: $VALUE|=+0$"
+ INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[intrigue|E] de [recipient.GetShortUINamePossessive|U]: $VALUE|=+0$"
+ fund_inspiration_interaction:0 "Patrocinar Inspiração"
+ fund_inspiration_interaction_desc:0 "Patrocine a [inspiration|E] de [recipient.GetShortUINamePossessiveNoTooltip] para iniciar um [project|E] que pode levar você a obter um [artifact|E].\n\nA qualidade potencial do artefato e o custo do patrocínio variam com suas habilidades."
+ fund_inspiration_interaction_reqruit_family_tooltip:0 "[recipient.GetShortUIName|U] e sua família"
+ indebt_guest_interaction.tt.direct_indebted_guest:0 "Você terá a chance de direcionar [recipient.GetTitledFirstName] para ir a algum lugar"
+ indebt_guest_interaction.tt.failure:0 "[recipient.GetTitledFirstName] não cederá à pressão e fugirá"
+ indebt_guest_interaction:0 "Endividar Hóspede"
+ indebt_guest_interaction_desc:0 "Faça com que seus [Concept('court_amenities','Servos')|E] testemunhem uma série de despesas causadas durante a estadia de [recipient.GetShortUIName] e, em seguida, ofereça a eles uma saída..."

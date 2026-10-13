@@ -1,0 +1,5 @@
+﻿l_spanish:
+ puppet_action_banner_tt:0 "Esta ação precisa de um [puppet|E] para ser realizada"
+ puppet_interact_as_title:0 "Agindo como [Character.GetShortUINameNoTooltip|U]"
+ puppet_interaction_filter_title:0 "Interações de #T [PuppetType.GetName]#!\n\n[puppet|E]: [PuppetInteractionsFilter.GetPuppet.GetShortUIName]"
+ puppet_interaction_filter_tt:0 "[PuppetInteractionsFilter.GetPuppetTypeTooltip]"

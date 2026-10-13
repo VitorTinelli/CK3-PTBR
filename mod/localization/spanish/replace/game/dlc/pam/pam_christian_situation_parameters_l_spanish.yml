@@ -1,0 +1,13 @@
+﻿l_spanish:
+ saeculum_obscurum_clergy_would_marry_desc_actor:0 "[actor.GetShortUIName] é um [actor.GetFaith.GetAdherentNameNoTooltip] temente a Deus: $VALUE|=+0$"
+ saeculum_obscurum_clergy_would_marry_desc_recipient:0 "[recipient.GetShortUIName] é um [recipient.GetFaith.GetAdherentNameNoTooltip] temente a Deus: $VALUE|=+0$"
+ saeculum_obscurum_clergy_would_marry_desc_secondary_actor:0 "[secondary_actor.GetShortUIName] é um [secondary_actor.GetFaith.PriestNeuter] temente a Deus: $VALUE|=+0$"
+ saeculum_obscurum_clergy_would_marry_desc_secondary_recipient:0 "[secondary_recipient.GetShortUIName] é um [secondary_recipient.GetFaith.PriestNeuter] temente a Deus: $VALUE|=+0$"
+ situation_parameter_the_christian_church_emperor_can_call_ecumenical_council:0 "[christian|E] [rulers|E] seculares de nível [title_tier|E] de [emperor|E] ou superior podem convocar [ecumenical_councils|E]."
+ situation_parameter_the_christian_church_king_can_appoint_bishops:0 "[christian|E] [rulers|E] seculares de nível de [king|E] ou superior podem nomear [clerical_titles|E]"
+ situation_parameter_the_christian_church_no_aid_to_other_rite:0 "[christian|E] [rulers|E] não acudirão [rulers|E] de outro [rite|E] em uma [holy_war|E] defensiva."
+ situation_parameter_the_christian_church_recently_converted_rulers_will_change_rite_easier:0 "[christian|E] [rulers|E] recentemente convertidos são mais propensos a adotar outro [rite|E]."
+ the_christian_church:0 "$game_concept_the_christian_church$"
+ the_christian_church_desc:0 "$game_concept_the_christian_church_desc$"
+ the_christian_church_government_effects:0 "Efeitos Governamentais"
+ the_christian_church_government_effects_concept:0 "[situation_participant_group|E]"

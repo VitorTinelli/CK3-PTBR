@@ -1,0 +1,10 @@
+﻿l_spanish:
+ poi_capitals.visit:0 "Visitou a capital de [province.GetTitle.GetHolder.GetPrimaryTitle.GetBaseName]"
+ poi_gp_buildings.visit:0 "Visitou a [GetBuilding('mandala_capital_01').GetName] de [province.GetName]"
+ poi_grand_city.visit:0 "Visitou a Grande Cidade de [province.GetName]"
+ poi_legend_capitals.visit:0 "Visitou o local de origem de [province.GetTitle.GetHolder.GetPromotedLegend.GetName]"
+ poi_lighthouse_of_alexandria.visit:0 "Visitou o Farol de Alexandria"
+ poi_mausoleum_at_halicarnassus.visit:0 "Visitou o Mausoléu em Halicarnasso"
+ poi_natural_feature.visit:0 "Visitou [province.GetHolding.GetSpecialBuildingType.GetName]"
+ poi_special_buildings.visit:0 "Visitou [province.GetHolding.GetSpecialBuildingType.GetName]"
+ poi_standalone_holy_site.visit:0 "Local Sagrado [province.MakeScope.Var('poi_standalone_holy_site_faith').Faith.GetAdjective] visitado: [province.MakeScope.Var('poi_standalone_holy_site').HolySite.GetName]"

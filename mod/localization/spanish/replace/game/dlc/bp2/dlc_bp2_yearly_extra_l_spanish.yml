@@ -1,0 +1,7 @@
+﻿l_spanish:
+ bp2_yearly_extra.0001.a.tt:0 "Ajudar ou causar confusão? Colocar as mãos na massa fará você aprender."
+ bp2_yearly_extra.0001.a:0 "Eu quero ajudar!"
+ bp2_yearly_extra.0001.b.tt:0 "Sempre é mais seguro ficar de lado e fazer algumas anotações."
+ bp2_yearly_extra.0001.b:0 "Eu só gosto de vê-los trabalhar."
+ bp2_yearly_extra.0001.desc:0 "Fascinante e intrigante. Tenho observado o conselho em ação, e um conselheiro em particular, [ROOT.Char.Custom2('RelationToMe', target_councilor)], [target_councilor.GetTitledFirstName], chamou minha atenção.\n\nPara mim, está claro que compartilhamos as mesmas paixões. Descubro que passo cada vez mais tempo com o conselho."
+ bp2_yearly_extra.0001.t:0 "Meu Conselheiro Favorito"

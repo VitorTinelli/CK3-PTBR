@@ -1,0 +1,5 @@
+﻿l_spanish:
+ friend_shared_disappointment:0 "Bondade de [CHARACTER.GetShortUIName|U] após uma derrota compartilhada nas corridas criou um vínculo a partir da decepção."
+ friend_shared_disappointment_corresponding:0 "Bondade de [TARGET_CHARACTER.GetShortUIName|U] após uma derrota compartilhada nas corridas criou um vínculo a partir da decepção."
+ rival_race_sabotage_accusation:0 "[CHARACTER.GetShortUIName|U] acusou [TARGET_CHARACTER.GetShortUIName] de sabotagem traiçoeira após uma colisão durante uma corrida."
+ rival_race_sabotage_accusation_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] acusou [CHARACTER.GetShortUIName] de sabotagem traiçoeira após uma colisão durante uma corrida."

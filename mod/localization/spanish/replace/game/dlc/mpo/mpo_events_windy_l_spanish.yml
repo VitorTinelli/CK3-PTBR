@@ -1,0 +1,8 @@
+﻿l_spanish:
+ mpo_bb_events.0001.a.tt_failure:0 "Você perde"
+ mpo_bb_events.0001.a.tt_success:0 "Você vence"
+ mpo_bb_events.0001.a:0 "#italics Vou mostrar a você a força de [ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]#!"
+ mpo_bb_events.0001.b:0 "Estender os braços para um abraço em vez disso."
+ mpo_bb_events.0001.c:0 "Derrubar as pernas [my_blood_brother.GetHerHim]!"
+ mpo_bb_events.0001.desc:0 "No horizonte, vejo um cavaleiro solitário se aproximando. É meu irmão de sangue e querid[Select_CString( my_blood_brother.IsFemale, 'a', 'o' )] [my_blood_brother.Custom2('RelationToMe', ROOT.Char )] [my_blood_brother.GetTitledFirstName]! \n\n[my_blood_brother.GetSheHe|U] desmonta e me encara com uma expressão séria no rosto. \n\n[my_blood_brother.GetSheHe|U] assume uma posição baixa com os braços estendidos. Sem dúvida, isso é um desafio para uma luta.\n\n\"O que me diz de uma pequena competição, [ROOT.Char.GetFirstNameNoTooltip]?\""
+ mpo_bb_events.0001.t:0 "Uma Briga Amigável"

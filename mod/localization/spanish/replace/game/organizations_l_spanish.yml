@@ -1,0 +1,4 @@
+﻿l_spanish:
+ FAITH_ORGANIZATION_DESCRIPTION:0 "Este é o [clergy|E] da [FAITH.GetAdjective] [faith|E]."
+ FAITH_ORGANIZATION_NAME:0 "Clero de [FAITH.GetAdjectiveNoTooltip]"
+ ORGANIZATION_TOOLTIP:0 "#T [Organization.GetName]#!\n\n[Organization.GetDescription]\n\n#I Clique para ver todos os membros da organização#!"

@@ -1,0 +1,3 @@
+﻿l_spanish:
+ HOUSE_RELATION_HISTORY_WINDOW_ENTRY_COUNT_DEBUG:0 "Número de mudanças: [GetDataModelSize( HouseRelation.GetHistory )]"
+ HOUSE_RELATION_HISTORY_WINDOW_HEADING:0 "Histórico dos [HouseRelation.GetName]"

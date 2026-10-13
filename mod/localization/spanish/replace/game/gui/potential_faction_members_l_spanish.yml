@@ -1,0 +1,11 @@
+﻿l_spanish:
+ CHARACTER_SORT_CAN_FORCE_TO_FACTION:0 "Pode ser forçado a entrar na facção"
+ CHARACTER_SORT_OPINION_OF_LIEGE:0 "Opinião do Senhor Feudal"
+ NO_POTENTIAL_FACTION_MEMBERS:0 "#weak Não há membros potenciais#!"
+ POTENTIAL_FACTION_MEMBERS_HEADER:0 "Membros Potenciais"
+ POTENTIAL_FACTION_MEMBERS_OPINION_OF_LIEGE:0 "Opinião do Senhor Feudal: [CharacterListItem.GetInt( 'opinion_of_liege' )|+]"
+ POTENTIAL_FACTION_MEMBER_AVAILABLE:0 "#P Pode ser forçado a se juntar#!"
+ POTENTIAL_FACTION_MEMBER_MILITARY_STRENGTH_TT_HEADER:0 "#T Força Militar#!"
+ POTENTIAL_FACTION_MEMBER_NOT_AVAILABLE:0 "#N Não pode ser forçado a se juntar#!"
+ POTENTIAL_FACTION_MEMBER_POTENTIAL:0 "#Z Pode potencialmente ser forçado#!"
+ POTENTIAL_FACTION_MEMBER_TT:0 "#T $force_join_faction_interaction$#!"

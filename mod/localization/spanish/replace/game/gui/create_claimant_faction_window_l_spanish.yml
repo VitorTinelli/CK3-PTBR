@@ -1,0 +1,6 @@
+﻿l_spanish:
+ CREATE_CLAIMANT_FACTION_INVITE:0 "#T Convidar como pretendente#!"
+ CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon! #X Não está no reino de [CHARACTER.GetShortUINamePossessive]#!"
+ CREATE_CLAIMANT_FACTION_NO_CLAIMANT_UNLANDED:0 "@warning_icon! #X Não está sem terras#!"
+ CREATE_CLAIMANT_FACTION_SELECT_CLAIMANT:0 "@warning_icon! #X Nenhum pretendente selecionado#!"
+ CREATE_CLAIMANT_FACTION_SELECT_TITLE:0 "@warning_icon! #X Nenhum título selecionado#!"

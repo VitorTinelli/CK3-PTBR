@@ -1,0 +1,6 @@
+﻿l_spanish:
+ situation_group_type_debug:0 "Depuração"
+ situation_group_type_major:0 "Maior"
+ situation_group_type_minor:0 "Menor"
+ situation_group_type_natural_disasters:0 "$game_concept_natural_disaster$"
+ situation_group_type_struggles:0 "Conflitos"

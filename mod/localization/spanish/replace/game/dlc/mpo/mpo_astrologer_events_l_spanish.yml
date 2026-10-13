@@ -1,0 +1,10 @@
+﻿l_spanish:
+ court_astrologer_events.0002.a.tt:0 "Se você [migrate|E] de forma #EMP pacífica#! para [target_realm.GetName] nos próximos #V 5#! anos, receberá [GetModifier('astrologer_desired_area_modifier').GetNameWithTooltip] ao chegar"
+ court_astrologer_events.0002.a:0 "\"Confio em sua palavra.\""
+ court_astrologer_events.0002.b:0 "\"Você fala palavras piedosas.\""
+ court_astrologer_events.0002.c:0 "\"Só os fracos fogem.\""
+ court_astrologer_events.0002.desc.bad:0 "\"[astrologer.GetFaith.HighGodName] não tem piedade de nós, [ROOT.GetCharacter.Custom('GetMongolHonorific')] [ROOT.Char.GetTitleAsNameNoTooltip]. A grama sofre, seca como um cadáver antigo.\""
+ court_astrologer_events.0002.desc.intro:0 "[astrologer.GetShortUIName] se aproxima de mim enquanto o sol morre sobre as montanhas. [astrologer.GetSheHe|U] [astrologer.Custom('quirk_pos_present')] à medida que se aproxima, observando a terra.\n\n"
+ court_astrologer_events.0002.desc.meh:0 "\"Mesmo com a bênção de [astrologer.GetFaith.HighGodNamePossessive], nosso rebanho ainda luta,\" diz [astrologer.GetSheHe], apontando para alguns cavalos inquietos."
+ court_astrologer_events.0002.desc.outro:0 "\n\n\"A terra vizinha de [target_realm.GetName] é muito mais fértil. Você deve convencer [target_realm_owner.GetTitledFirstName] a ceder espaço para nosso povo.\""
+ court_astrologer_events.0002.t:0 "Olhe para Seu Vizinho"

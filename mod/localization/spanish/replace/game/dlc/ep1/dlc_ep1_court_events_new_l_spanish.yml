@@ -1,0 +1,10 @@
+﻿l_spanish:
+ court_new.0001.a.murderer:0 "Eu não sou o único assassino neste lugar..."
+ court_new.0001.a:0 "[bodyguard_candidate.GetFirstNameNoTooltip] será um excelente guarda-costas."
+ court_new.0001.b:0 "Tenho certeza de que estarei bem sem [bodyguard_candidate.GetSheHe]."
+ court_new.0001.desc.intro:0 "Ouço um estalo repentino quando uma seção de andaimes quebra e cai ao chão, quase atingindo um servo, não fosse os rápidos instintos de [bodyguard_candidate.GetFirstName]."
+ court_new.0001.desc.murdered:0 "Sou rapidamente lembrado do horrendo assassinato de [murdered_person.GetName], que foi levado antes da hora."
+ court_new.0001.desc.murderer:0 "Sou rapidamente lembrado dos planos assassinos de [murder_dude.GetName], um canalha do pior tipo."
+ court_new.0001.desc.outro:0 "\n\nSerá que isso foi mais uma trama traiçoeira? A vida de um[Select_CString( ROOT.Char.IsFemale, 'a', '' )] [ROOT.Char.GetTitleAsNameNoTooltip] pode ser tão cheia dos piores tipos de perigo, como se uma espada mal presa estivesse constantemente pendurada sobre minha cabeça, pronta para cair a qualquer momento.\n\nSe ao menos eu tivesse alguém para cuidar de mim, algum tipo de guardião para meu corpo mortal. Aquele sujeito, [bodyguard_candidate.GetFirstName]; uma pessoa diligente e resistente como poucas. Talvez eu devesse nomear [bodyguard_candidate.GetSheHe] para o cargo."
+ court_new.0001.desc.paranoid:0 "Ultimamente, tenho visto sombras no canto do meu olho, espectros diabólicos com certeza de intenções assassinas. Este último incidente apenas reforça meu sentimento de perigo iminente."
+ court_new.0001.t:0 "A Espada de Dâmocles"

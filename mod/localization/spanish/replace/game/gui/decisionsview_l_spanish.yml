@@ -1,0 +1,5 @@
+﻿l_spanish:
+ DECISION_VIEW_CHARACTER_PICKER_NAME:0 "[Character.GetUINameNoTooltip|U]"
+ DECISION_VIEW_CHARACTER_PICKER_RELATION:0 "[Character.GetRelationToString(GetPlayer)]"
+ DECISION_VIEW_TENET_PICKER_NAME:0 "[TenetType.GetName( GetPlayer().GetRite )]\n[SelectLocalization( IsUsingTenetPopularity( Faith ), 'DECISION_VIEW_TENET_PICKER_POPULARITY', '' )]"
+ DECISION_VIEW_TENET_PICKER_POPULARITY:0 "$tenet_popularity_tier_name$$FAITH_TENET_ITEM_POPULARITY$(#high [Faith.GetTenetPopularityScore( TenetType.Self )]#!)"

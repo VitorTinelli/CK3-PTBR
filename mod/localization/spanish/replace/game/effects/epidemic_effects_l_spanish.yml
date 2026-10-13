@@ -1,0 +1,9 @@
+﻿l_spanish:
+ create_epidemic_outbreak_global:0 "Um surto de $INTENSITY|V$ [EPIDEMIC_TYPE.GetName] aparece"
+ create_epidemic_outbreak_global_past:0 "Um surto de $INTENSITY|V$ [EPIDEMIC_TYPE.GetName] apareceu"
+ create_epidemic_outbreak_third:0 "Um surto de $INTENSITY|V$ [EPIDEMIC_TYPE.GetName] aparece em [PROVINCE.GetName]"
+ create_epidemic_outbreak_third_past:0 "Um surto de $INTENSITY|V$ [EPIDEMIC_TYPE.GetName] apareceu em [PROVINCE.GetName]"
+ set_epidemic_outbreak_intensity_global:0 "A intensidade do surto se torna $NEW_VALUE|V$"
+ set_epidemic_outbreak_intensity_global_past:0 "A intensidade do surto tornou-se $NEW_VALUE|V$"
+ set_epidemic_outbreak_intensity_third:0 "A intensidade do surto de [EPIDEMIC.GetName] se torna $NEW_VALUE|V$"
+ set_epidemic_outbreak_intensity_third_past:0 "A intensidade do surto de [EPIDEMIC.GetName] tornou-se $NEW_VALUE|V$"

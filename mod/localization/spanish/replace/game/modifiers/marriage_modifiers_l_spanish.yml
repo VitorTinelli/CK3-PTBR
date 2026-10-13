@@ -1,0 +1,3 @@
+﻿l_spanish:
+ LATIN_EMPIRE_REASON:0 "Você é um [GetTrait('despoiler_of_byzantium').GetName( GetNullCharacter )] no [GetTitleByKey('e_latin_empire').GetName]: $VALUE|=+0$"
+ UNDER_CONCUBINE_LIMIT_PRESTIGE_PENALTY:0 "Abaixo do limite de [concubine|E]"

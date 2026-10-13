@@ -1,0 +1,4 @@
+﻿l_spanish:
+ set_ruler_objective_decision_first:0 "$set_ruler_objective_decision_global$"
+ set_ruler_objective_decision_global:0 "#S $DECISION_NAME$#! foi definido como Objetivo de Governante de [Character.GetShortUIName]"
+ set_ruler_objective_decision_third:0 "$set_ruler_objective_decision_global$"

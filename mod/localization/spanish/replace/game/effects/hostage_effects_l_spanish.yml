@@ -1,0 +1,11 @@
+﻿l_spanish:
+ I_ATTACK_TRUCE_HOSTAGE_FATE:0 "#X Você decide o destino do [hostage|E]: [TARGET_CHARACTER.GetShortUIName|U]#!"
+ I_RETURNED_FROM_HOSTAGE:0 "Não sou mais um [hostage|E]"
+ I_RETURN_FROM_HOSTAGE:0 "Não serei mais um [hostage|E]"
+ I_TAKE_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U] se torna seu [hostage|E]"
+ I_TOOK_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U] se tornou seu [hostage|E]"
+ THEY_ATTACK_TRUCE_HOSTAGE_FATE:0 "#X Decide o destino do [hostage|E]: [TARGET_CHARACTER.GetShortUIName|U]#!"
+ THEY_RETURNED_FROM_HOSTAGE:0 "[CHARACTER.GetName] não é mais um [hostage|E]"
+ THEY_RETURN_FROM_HOSTAGE:0 "[CHARACTER.GetName] não será mais um [hostage|E]"
+ THEY_TAKE_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U] se torna [CHARACTER.LocalPlayerString( 'seu ', '' )][hostage|E][CHARACTER.LocalPlayerString( '', 'Loc_ES_de_GetShortUIName' )]"
+ THEY_TOOK_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U] se tornou [CHARACTER.LocalPlayerString( 'seu ', '' )][hostage|E][CHARACTER.LocalPlayerString( '', 'Loc_ES_de_GetShortUIName' )]"

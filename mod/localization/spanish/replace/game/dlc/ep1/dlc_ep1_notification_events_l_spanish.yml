@@ -1,0 +1,7 @@
+﻿l_spanish:
+ ep1_notifications.0011.desc:0 "Que nossa corte cresça cada vez mais grandiosa!"
+ ep1_notifications.0011.t:0 "Você mudou a língua da sua corte"
+ ep1_notifications.0012.desc:0 "A corte de [target_character.GetShortUINameNoTooltip] agora fala [target_character.GetCourtLanguage.GetName]. Que sua decisão se prove tola!"
+ ep1_notifications.0012.t:0 "[target_character.GetShortUINameNoTooltip] mudou a língua de sua corte"
+ ep1_notifications.0013.desc:0 "A corte de [target_character.GetShortUINameNoTooltip] agora fala [target_character.GetCourtLanguage.GetName]. Uma decisão muito sábia!"
+ ep1_notifications.0013.t:0 "[target_character.GetShortUINameNoTooltip] mudou a língua de sua corte"

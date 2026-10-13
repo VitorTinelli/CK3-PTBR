@@ -1,0 +1,10 @@
+﻿l_spanish:
+ perk_interaction.0002.a:0 "Vou mostrar a [actor.GetSheHe] quando chegar a hora..."
+ perk_interaction.0002.other_faith:0 "Os padres charlatões da fé [actor.GetFaith.GetAdjective] declararam publicamente apoio à reivindicação completamente infundada de [actor.GetTitledFirstNamePossessive] sobre [target.GetName]!"
+ perk_interaction.0002.same_faith:0 "Por alguma razão impensável, os [actor.GetFaith.AltPriestTermPlural] sancionaram a reivindicação completamente infundada de [actor.GetTitledFirstNamePossessive] sobre [target.GetName]!"
+ perk_interaction.0002.t:0 "Uma Reivindicação em Minhas Terras!"
+ perk_interaction.0101.loser_toast.t:0 "Você Perdeu contra [sc_victor.GetFirstNameNoTooltip]"
+ perk_interaction.0101.victor_toast.t:0 "Você é Vitorioso contra [sc_loser.GetFirstNameNoTooltip]"
+ perk_interaction.0102.actor_toast.t:0 "Seu Combate contra [recipient.GetFirstNameNoTooltip] foi Invalidado"
+ perk_interaction.0102.bout_invalidated.tt:0 "Circunstâncias alteradas o obrigaram a cancelar"
+ perk_interaction.0102.recipient_toast.t:0 "Seu Combate contra [actor.GetFirstNameNoTooltip] foi Invalidado"

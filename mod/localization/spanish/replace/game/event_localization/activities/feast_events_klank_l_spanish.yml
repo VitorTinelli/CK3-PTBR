@@ -1,0 +1,6 @@
+﻿l_spanish:
+ feast_events_klank.1001.a:0 "Primeiro, mexa [ROOT.Char.Custom('DeviantObjectArticle')] na frente deles."
+ feast_events_klank.1001.b:0 "Você está absolutamente certo!"
+ feast_events_klank.1001.c:0 "Um livro como #EMP [SCOPE.Custom('RandomEntertainmentTextName')]#! inspira."
+ feast_events_klank.1001.desc:0 "\"Onde é o melhor lugar para começar a cortar?\" pergunta m[Select_CString( fellow_torturer.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('fellow_torturer'))] [fellow_torturer.GetName], com uma adaga em [fellow_torturer.GetHerHis] mão, [fellow_torturer.GetHerHis] tom cheio de admiração. Verdadeiramente um[Select_CString( fellow_torturer.IsFemale, 'a', '' )] [fellow_torturer.GetWomanMan] do meu próprio gosto. Um banquete pode ser um encontro de mentes, uma oportunidade de aperfeiçoar uma arte, não apenas uma oportunidade entediante para a gula. \n\n\"Na minha experiência, eles gritam mais alto se você remover o [ROOT.Char.Custom('GetRandomBodyPart')] primeiro. Estou convencido disso... esta é a forma mais deliciosa de começar.\"\n\n[terrified_onlooker.GetName] observa em silêncio no canto."
+ feast_events_klank.1001.t:0 "Modos de Tortura"

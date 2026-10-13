@@ -1,0 +1,13 @@
+﻿l_spanish:
+ pam_sf_deliverance_memory:0 "realizou exorcismo"
+ pam_sf_deliverance_memory_desc:0 "[delivered_soul.GetTitledFirstName] estava tomado por um espírito violento, e eu realizei um exorcismo."
+ pam_sf_deliverance_memory_desc_second_perspective:0 "[delivered_soul.GetTitledFirstName] estava tomado por um espírito violento, e você realizou um exorcismo."
+ pam_sf_deliverance_memory_desc_third_perspective:0 "[delivered_soul.GetTitledFirstName] estava tomado por um espírito violento, e [owner.GetTitledFirstName] realizou um exorcismo."
+ pam_sf_kings_touch_healing_memory:0 "curou os enfermos com um toque"
+ pam_sf_kings_touch_healing_memory_desc:0 "Eu impus minhas mãos sobre [healed_subject.GetTitledFirstName], que estava gravemente enfermo, e [healed_subject.GetSheHe] se recuperou."
+ pam_sf_kings_touch_healing_memory_desc_second_perspective:0 "Você impôs suas mãos sobre [healed_subject.GetTitledFirstName], que estava gravemente enfermo, e [healed_subject.GetSheHe] se recuperou."
+ pam_sf_kings_touch_healing_memory_desc_third_perspective:0 "[owner.GetTitledFirstName] impôs [owner.GetHerHis] mãos sobre [healed_subject.GetTitledFirstName], que estava gravemente enfermo, e [healed_subject.GetSheHe] se recuperou."
+ pam_sf_prophecy_fulfilled_memory:0 "viu uma profecia se realizar"
+ pam_sf_prophecy_fulfilled_memory_desc:0 "[prophet.GetTitledFirstName] me avisou que [doomed.GetTitledFirstName] morreria, e [doomed.GetSheHe] morreu."
+ pam_sf_prophecy_fulfilled_memory_desc_second_perspective:0 "[prophet.GetTitledFirstName] avisou você que [doomed.GetTitledFirstName] morreria, e [doomed.GetSheHe] morreu."
+ pam_sf_prophecy_fulfilled_memory_desc_third_perspective:0 "[prophet.GetTitledFirstName] avisou [owner.GetTitledFirstName] que [doomed.GetTitledFirstName] morreria, e [doomed.GetSheHe] morreu."

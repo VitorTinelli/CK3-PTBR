@@ -1,0 +1,9 @@
+﻿l_spanish:
+ ep3_laamp_flavor_oltner.0001.a:0 "...por [ROOT.Char.GetFaith.HighGodName], [entourage_to_marry_2.GetWomanMan], você é ric[Select_CString( entourage_to_marry_2.IsFemale, 'a', 'o' )] — pague você mesmo!"
+ ep3_laamp_flavor_oltner.0001.b:0 "Claro que eu ajudarei!"
+ ep3_laamp_flavor_oltner.0001.c.failure:0 "[marriage_material.GetFirstName] não fica impressionad[Select_CString( marriage_material.IsFemale, 'a', 'o' )]"
+ ep3_laamp_flavor_oltner.0001.c.success:0 "[marriage_material.GetFirstName] se junta a você"
+ ep3_laamp_flavor_oltner.0001.c:0 "Vamos ver se [marriage_material.GetSheHe] está dispost[Select_CString( marriage_material.IsFemale, 'a', 'o' )] a fugir com você..."
+ ep3_laamp_flavor_oltner.0001.d:0 "Não é meu problema."
+ ep3_laamp_flavor_oltner.3001.desc:0 "\"[ROOT.Char.GetTitledFirstNameNoTooltip], m[Select_CString( root_char.IsFemale, 'inha', 'eu' )] [entourage_to_marry_2.Custom2('RelationToMeShort', SCOPE.sC('root_char'))], conheci [Select_CString( marriage_material.IsFemale, 'a', 'o' )] [marriage_material.GetWomanMan] mais [marriage_material.Custom('RandomPositiveShallowAdjective')] aqui em [ROOT.Char.GetCurrentLocation.GetName]...\" M[Select_CString( entourage_to_marry_2.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('entourage_to_marry_2'))] [entourage_to_marry_2.GetFirstNameNicknamed] tropeça enquanto [entourage_to_marry_2.GetSheHe] se dirige a mim.\n\n\"A família [marriage_material.GetHerHim] não nos deixará casar sem que eu pague um dote considerável!\" [entourage_to_marry_2.GetSheHe|U] gagueja tristemente. \"Por favor, ajude-me.\""
+ ep3_laamp_flavor_oltner.3001.t:0 "O Coração de um Seguidor"

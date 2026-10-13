@@ -1,0 +1,6 @@
+﻿l_spanish:
+ culture_conversion.0001.a:0 "As coisas mudam, e as pessoas também mudam."
+ culture_conversion.0001.b:0 "É uma má ideia abandonar nossas antigas tradições."
+ culture_conversion.0001.c:0 "Todos devemos acompanhar os tempos!"
+ culture_conversion.0001.desc:0 "Com as vestimentas [new_culture.GetName], hábitos [new_culture.GetName] e uma capital repleta de [new_culture.GetCollectiveNoun], não é surpresa que [Select_CString( ROOT.Char.IsFemale, 'a', 'o' )] [converting_character.Custom2('MyCharacterIntroduction', ROOT.Char)] não se considere mais [old_culture.GetName], mas sim [new_culture.GetName]!"
+ culture_conversion.0001.t:0 "Ser [new_culture.GetNameNoTooltip]"

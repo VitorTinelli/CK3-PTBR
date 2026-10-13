@@ -1,0 +1,13 @@
+﻿l_spanish:
+ ABANDON_RULER_OBJECTIVE_DECISION:0 "Abandonar objetivo [Decision.GetName]."
+ CHANGE_RULER_OBJECTIVE_DECISION:0 "Alterar objetivo para [Decision.GetName]."
+ INVALID_SET_RULER_OBJECTIVE_DECISION_COMMAND:0 "[Character.GetName] não é um jogador."
+ RULER_OBJECTIVE_ADVICE_ITEM_RELEVANCE:0 "(Rel: [RulerObjectiveAdvice.GetRelevance])"
+ RULER_OBJECTIVE_WINDOW_ABANDON:0 "Abandonar"
+ RULER_OBJECTIVE_WINDOW_ALREADY_DOING:0 "Já em execução"
+ RULER_OBJECTIVE_WINDOW_CONSIDER_DOING:0 "Considere executar"
+ RULER_OBJECTIVE_WINDOW_PROGRESS:0 "Objetivo #S [HudRulerObjective.GetEstimatedProgress]%#! Concluído"
+ RULER_OBJECTIVE_WINDOW_TITLE:0 "Objetivo do Governante: [Decision.GetTitleForPlayer]"
+ RULER_OBJECTIVE_WINDOW_UPDATE_ADVICE:0 "#D Atualizar conselho (dev)#!"
+ SET_RULER_OBJECTIVE_DECISION:0 "Definir objetivo para [Decision.GetName]."
+ SHOW_RULER_OBJECTIVE:0 "Mostrar Objetivo do Governante: #S [Decision.GetTitleForPlayer]#!"

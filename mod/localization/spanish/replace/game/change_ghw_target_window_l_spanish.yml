@@ -1,0 +1,10 @@
+﻿l_spanish:
+ CHANGE_GHW_TARGET:0 "@warning_icon! #X Selecione um novo alvo!#"
+ CHANGE_GHW_TARGET_CONFIRM:0 "Redirecionar Alvo da Guerra"
+ CHANGE_GHW_TARGET_COST:0 "Custo:[ChangeGHWTargetWindow.GetCost]"
+ CHANGE_GHW_TARGET_COST_TOOLTIP:0 "#T Custo de Redirecionamento\n#!O custo aumenta toda vez que o alvo é redirecionado\n[ChangeGHWTargetWindow.GetCostTooltip]"
+ CHANGE_GHW_TARGET_DEFENDERS:0 "Defensores"
+ CHANGE_GHW_TARGET_HEADER:0 "Redirecionar Alvo da Guerra"
+ CHANGE_GHW_TARGET_SAME_CHARACTER:0 "@warning_icon! #X O personagem selecionado já é um alvo desta grande guerra santa!#"
+ CHANGE_GHW_TARGET_TIMEOUT:0 "@warning_icon! #X O alvo não pode ser alterado porque a guerra começa em menos de $VALUE$ dias!#"
+ CHANGE_GHW_TARGET_WRONG_HOSTILITY:0 "@warning_icon! #X Não consideramos a fé de [TARGET_CHARACTER.GetNamePossessive] como hostil#!"

@@ -1,0 +1,8 @@
+﻿l_spanish:
+ bonus_to_petting_pet_tt:0 "Quando você acariciar seu gato, perderá mais [stress|E]"
+ feast_helped_overcome_loss_opinion:0 "Ajudou a Lamentar a Perda do Meu Animal de Estimação"
+ feast_mkc.0001.a:0 "Passar um tempo lamentando juntos o gato de [guest_lost_loved_pet.GetFirstNameNoTooltip]"
+ feast_mkc.0001.b:0 "Preciso valorizar ainda mais meu tempo com [ROOT.Char.Custom('CatStoryName')]"
+ feast_mkc.0001.desc:0 "Apesar da festa e da alegria no salão, noto um dos meus convidados, [guest_lost_loved_pet.GetShortUIName], sozinho no canto com meu gato, [ROOT.Char.Custom('CatStoryName')]. [ROOT.Char.Custom('CatStorySheHe')|U] está enrolado serenamente no colo de [guest_lost_loved_pet.GetShortUINamePossessiveNoTooltipNoFormat], ronronando, enquanto [guest_lost_loved_pet.GetFirstNameNoTooltip] acaricia suavemente a [ROOT.Char.Custom('CatFurColor')] [ROOT.Char.Custom('CatStoryHerHim')] pelagem.\n\n\"[ROOT.Char.Custom('CatStorySheHe')|U] me lembra tanto do meu antigo gato\", murmura [guest_lost_loved_pet.GetSheHe]. Lágrimas surgem nos olhos [guest_lost_loved_pet.GetHerHim]."
+ feast_mkc.0001.t:0 "Sozinho Com Uma Memória"
+ feast_sympathy_over_loss_opinion:0 "Ajudou a Superar a Perda do Animal de Estimação"

@@ -1,0 +1,3 @@
+﻿l_spanish:
+ JOMINI_LOAD_GAME_FAILED_DESC:0 "Não foi possível carregar o jogo salvo. Isso pode ser devido a:\n#indent_newline:2 • O arquivo salvo foi criado com uma versão incompatível do jogo\n• O jogo salvo usa um conjunto diferente de DLCs\n• O arquivo salvo foi corrompido#!"
+ JOMINI_LOAD_GAME_FAILED_TITLE:0 "Falha ao Carregar o Jogo Salvo"

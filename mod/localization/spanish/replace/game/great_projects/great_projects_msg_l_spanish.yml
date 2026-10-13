@@ -1,0 +1,6 @@
+﻿l_spanish:
+ great_project_completed_msg_desc:0 "O [great_project|E] para [great_project.GetName] foi concluído"
+ great_project_completed_msg_t:0 "Grande Projeto Concluído"
+ great_project_contributed_msg_desc:0 "[ROOT.Char.GetName] fez uma contribuição substancial para o [great_project|E] [great_project.GetName]"
+ great_project_contributed_msg_t:0 "Contribuição para o Grande Projeto Financiada"
+ great_project_contribution_msg_t:0 "Recompensado por Contribuição ao Grande Projeto"

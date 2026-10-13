@@ -1,0 +1,9 @@
+﻿l_spanish:
+ create_artifact_religious_artifact_tooltip:0 "[inspiration_owner.GetShortUIName] produziu [newly_created_artifact.GetName] de artesanato de [SCOPE.Custom('ArtifactQuality')]"
+ pam_religious_artifact_events.0001.a:0 "Minha piedade não deve conhecer limites!"
+ pam_religious_artifact_events.0001.aa:0 "Parece que você sonha em afrouxar meus cordões da bolsa!"
+ pam_religious_artifact_events.0001.b:0 "[ROOT.Char.GetFaith.HighGodName|U] não precisa de bugigangas."
+ pam_religious_artifact_events.0001.desc:0 "\"[ROOT.Char.Custom('FormOfAddressForLiege')|U]\", meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('inspiration_owner'))] [inspiration_owner.GetFirstName] entra na câmara com um sorriso. \"Isso me veio em um sonho!\"\n\n\"Uma bela peça de arte, cuidadosamente moldada e feita com as melhores gemas, dedicada exclusivamente a [ROOT.Char.GetFaith.HighGodName|U] e [ROOT.Char.GetFaith.HighGodName|U]. Enriqueça-me com os meios necessários e retornarei com o artefato mais lindo que um [ROOT.Char.GetTitleAsNameNoTooltip] poderia imaginar!\"\n\nEsta é uma promessa ousada, mas com que frequência alguém é abençoado com uma visão de [ROOT.Char.GetFaith.HighGodName|U]?"
+ pam_religious_artifact_events.0001.t:0 "Um Empreendimento Sagrado"
+ pam_religious_artifact_events.0002.a:0 "Ótimo trabalho, [inspiration_owner.GetFirstNameNoTooltip]!"
+ pam_religious_artifact_events.0002.desc:0 "Meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('inspiration_owner'))] [inspiration_owner.GetFirstName] convocou-me para a capela do castelo. O motivo torna-se evidente imediatamente quando [inspiration_owner.GetSheHe] me apresenta com orgulho a minha encomenda mais esperada.\n\n[newly_created_artifact.GetDesc]"

@@ -1,0 +1,6 @@
+﻿l_spanish:
+ CW_STARTUP_PERMISSION_BODY_GENERIC:0 "$GAME_NAME$ não pôde gravar na sua pasta de usuário, o que é necessário para salvar suas configurações e jogos.\n\nIsso geralmente é causado por antivírus ou softwares de segurança bloqueando o acesso, ou por permissões restritas de pasta. Conceda acesso a $GAME_NAME$ (ou verifique as permissões da pasta) e reinicie o jogo."
+ CW_STARTUP_PERMISSION_BODY_OSX:0 "$GAME_NAME$ precisa de permissão para acessar sua pasta Documentos para salvar suas configurações e jogos.\n\nConceda acesso em Ajustes do Sistema > Privacidade e Segurança > Arquivos e Pastas (ou Acesso Total ao Disco) e reinicie o jogo."
+ CW_STARTUP_PERMISSION_OPEN_SETTINGS:0 "Abrir Ajustes de Privacidade"
+ CW_STARTUP_PERMISSION_QUIT:0 "Sair"
+ CW_STARTUP_PERMISSION_TITLE:0 "Permissão Necessária"

@@ -1,0 +1,5 @@
+﻿l_spanish:
+ HOUSE_HEAD_DOES_NOT_APPROVE:0 "Seu [house_head|E], [CHARACTER.GetShortUIName], não aprova essa legitimação"
+ MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U] é casado, é nunca iria admitir tais indiscrições"
+ TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U] não é [bastard|E] de sua [house|E]"
+ WOULD_NOT_CHEAT_ON_A_PARTNER:0 "[TARGET_CHARACTER.GetShortUIName|U] tem pelo menos um parceiro(a) em quem nunca trairia"

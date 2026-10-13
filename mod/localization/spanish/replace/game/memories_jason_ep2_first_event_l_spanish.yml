@@ -1,0 +1,9 @@
+﻿l_spanish:
+ successful_race_rescue:0 "resgatou corajosamente a vida de dois competidores"
+ successful_race_rescue_desc:0 "Avancei rapidamente e, diante de uma grande plateia, resgatei corajosamente a vida de dois competidores de seus cavalos feridos e em pânico"
+ successful_race_rescue_desc_second_perspective:0 "Você avançou rapidamente e, diante de uma grande plateia, resgatou corajosamente a vida de dois competidores de seus cavalos feridos e em pânico"
+ successful_race_rescue_desc_third_perspective:0 "[owner.GetName] avançou rapidamente e, diante de uma grande plateia, resgatou corajosamente a vida de dois competidores de seus cavalos feridos e em pânico"
+ trampled_during_race_rescue:0 "foi ferido ao falhar em salvar a vida de dois competidores"
+ trampled_during_race_rescue_desc:0 "Senti o coice de um cavalo em pânico durante uma tentativa mal concebida de salvar a vida de dois competidores"
+ trampled_during_race_rescue_desc_second_perspective:0 "Você sentiu o coice de um cavalo em pânico durante uma tentativa mal concebida de salvar a vida de dois competidores"
+ trampled_during_race_rescue_desc_third_perspective:0 "[owner.GetName] sentiu o coice de um cavalo em pânico durante uma tentativa mal concebida de salvar a vida de dois competidores"

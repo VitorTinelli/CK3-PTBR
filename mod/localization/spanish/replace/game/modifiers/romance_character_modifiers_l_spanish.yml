@@ -1,0 +1,10 @@
+﻿l_spanish:
+ had_sex_with_effect.first_person.tt:0 "Você tem relações com [had_sex_with_effect_partner.GetShortUIName]"
+ had_sex_with_effect.other_person.tt:0 "Tem relações com [had_sex_with_effect_partner.GetShortUIName]"
+ had_sex_with_effect.third_person.tt:0 "[had_sex_root_character.GetShortUIName|U] tem relações com [had_sex_with_effect_partner.GetShortUIName]"
+ romance_great_painting_gift_modifier:0 "Pintura Magnífica"
+ romance_great_painting_gift_modifier_desc:0 "Uma pintura habilidosamente feita que certamente chamará a atenção de qualquer pessoa na sala."
+ romance_less_talented_troubadour_modifier:0 "Troubadour Empregado"
+ romance_less_talented_troubadour_modifier_desc:0 "Um trovador está empregado neste personagem."
+ romance_talented_troubadour_modifier:0 "Troubadour Talentoso Empregado"
+ romance_talented_troubadour_modifier_desc:0 "Um trovador muito talentoso está empregado neste personagem."

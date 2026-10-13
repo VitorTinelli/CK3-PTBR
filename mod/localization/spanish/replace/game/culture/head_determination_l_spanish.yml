@@ -1,0 +1,4 @@
+﻿l_spanish:
+ head_determination_domain:0 "Determinar pelo maior domínio"
+ head_determination_generic_label_desc:0 "A [head_determination|E] da [culture|E] decide como o chefe cultural é escolhido."
+ head_determination_herd:0 "Determinar pelo maior rebanho"

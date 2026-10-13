@@ -1,0 +1,13 @@
+﻿l_spanish:
+ calmed_the_crowd_memory:0 "acalmou uma multidão tumultuosa com um discurso magnífico"
+ calmed_the_crowd_memory_desc:0 "Com palavras sérias e eloquentes, eu acalmei uma multidão vasta e tumultuosa"
+ calmed_the_crowd_memory_desc_second_perspective:0 "Com palavras sérias e eloquentes, você acalmou uma multidão vasta e tumultuosa"
+ calmed_the_crowd_memory_desc_third_perspective:0 "Com um discurso grandioso e presentes diversos, [owner.GetName] acalmou uma multidão vasta e tumultuosa"
+ failed_riot_at_races_memory:0 "não conseguiu impedir que a multidão da corrida entrasse em violentos tumultos"
+ failed_riot_at_races_memory_desc:0 "Eu não consegui impedir a violência em massa que arruinou minhas corridas e feriu muitos convidados"
+ failed_riot_at_races_memory_desc_second_perspective:0 "Você não conseguiu impedir a violência em massa que arruinou suas corridas e feriu muitos convidados"
+ failed_riot_at_races_memory_desc_third_perspective:0 "[owner.GetName] não conseguiu impedir a violência em massa que arruinou as corridas [owner.HerHim] e feriu muitos convidados"
+ fled_riot_at_races_memory:0 "fugiu enquanto ocorria um tumulto nas corridas"
+ fled_riot_at_races_memory_desc:0 "Eu fugi para a segurança, enquanto a pista de corrida do meu torneio era tomada por tumultos e muitos convidados ficaram feridos"
+ fled_riot_at_races_memory_desc_second_perspective:0 "Você fugiu para a segurança, enquanto a pista de corrida do seu torneio era tomada por tumultos e muitos convidados ficaram feridos"
+ fled_riot_at_races_memory_desc_third_perspective:0 "[owner.GetName] fugiu para a segurança, enquanto a pista de corrida do torneio [owner.GetHerHim] era tomada por tumultos e muitos convidados ficaram feridos"

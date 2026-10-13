@@ -1,0 +1,7 @@
+﻿l_spanish:
+ innovation_all_things:0 "Todas as Coisas"
+ innovation_all_things_desc:0 "Entre nosso povo, existe uma forte tradição de reuniões públicas de todos os adultos livres e capacitados, onde qualquer um pode levantar suas queixas ao governante. Claro, para aqueles que se destacam aos olhos do povo comum, pode haver poder em influenciar a multidão..."
+ innovation_varangian_adventurers:0 "Aventureiros Varangianos"
+ innovation_varangian_adventurers_desc:0 "O que devemos a essas terras onde vivemos? Nada! O coração do reino são suas pessoas e nós não merecemos o melhor solo, os maiores tesouros, os palácios mais finos? Tê-los é tão simples quanto #EMP tomar#!"
+ unlock_varangian_adventurer_cb:0 "Desbloqueia o [casus_belli|E] [varangian_adventure|E] durante a [era|E] [tribal|E]"
+ unlocks_authority_cooldown_breaking:0 "Os [characters|E] podem quebrar os tempos de recarga de [crown_authority|E] e [tribal_authority|E] a um custo elevado de [prestige|E]"

@@ -1,0 +1,13 @@
+﻿l_spanish:
+ burned_my_jungle_opinion:0 "Queimou Minha Selva"
+ travel_danger_events.2000.a:0 "Corte e queime, #EMP encontre-o#!."
+ travel_danger_events.2000.b:0 "Eu odeio isso. Tire-me daqui."
+ travel_danger_events.2000.c:0 "A única coisa a temer nesta selva sou eu!"
+ travel_danger_events.2000.desc:0 "Algo tem me observado desde que colocamos os pés na selva de [ROOT.Char.GetCurrentLocation.GetNameNoTooltip]. Eu vi o brilho dos olhos, o farfalhar das folhas.\n\nEle está me seguindo, me rastreando, #EMP caçando-me#!.\n\nOs homens que enviei para encontrá-lo não voltaram. O que é essa criatura espreitando nas profundezas esmeralda da selva?"
+ travel_danger_events.2000.t:0 "$travel_danger_prefix$ Os Olhos da Selva"
+ travel_danger_events.2001.a:0 "Salve os suprimentos!"
+ travel_danger_events.2001.b:0 "Salve [Select_CString( flood_victim.IsFemale, 'a', 'o' )] [flood_victim.GetFirstNameNoTooltip]!!"
+ travel_danger_events.2001.desc:0 "A chuva não deu trégua enquanto viajávamos por [ROOT.Char.GetCurrentLocation.GetNameNoTooltip]. Eu tenho observado nervosamente o rio, já que suas águas turvas incharam cada vez mais, como uma bolha cheia de pus.\n\nM[Select_CString( flood_victim.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMe', flood_victim)] [flood_victim.GetFirstNameNoTooltip] está reclamando, mais uma vez: 'Estamos percorrendo essa maldita, encharcada, afundada, pocilga há dias. Quando...'\n\nAntes que [flood_victim.GetSheHe] possa terminar sua frase, a margem finalmente cede. Um fluxo de água espessa e escura se aproxima de nossos suprimentos, e [flood_victim.GetFirstNameNoTooltip]!"
+ travel_danger_events.2001.t:0 "$travel_danger_prefix$ A Enchente"
+ travel_lost_supplies:0 "Suprimentos Perdidos"
+ travel_lost_supplies_desc:0 "Este personagem está sentindo os efeitos de perder suprimentos durante a viagem."

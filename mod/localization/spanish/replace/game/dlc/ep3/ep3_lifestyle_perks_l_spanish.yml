@@ -1,0 +1,12 @@
+﻿l_spanish:
+ admin_council_cost_perk_effect_first:0 "#high $request_council_interaction$#! custo: [influence_i]#P -[EmptyScope.ScriptValue('admin_council_cost_perk_value')|0%]#!"
+ admin_court_of_shadows_perk_effect_first:0 "Max [success_chance|E] em [political_schemes|E]: [success_chance_max_i]#P +[EmptyScope.ScriptValue('court_of_shadows_perk_admin_percentage')|0]%#!"
+ admin_dignitas_perk_effect_first:0 "[candidate_score|E] para [titles|E] de [empire|E]: #P +30#!"
+ admin_ducal_conquest_perk_effect_first:0 "[candidate_score|E] para [governorships|E]: #P +30#!"
+ admin_familial_familiar_perk_effect_first:0 "[powerful_family_rating|E]: #P +10#!"
+ admin_friendly_counsel_perk_effect_first:0 "Você pode solicitar [GetPlayer.Custom('GetProvincialArmiesConcept')] de [friends|E]"
+ admin_large_levies_perk_name:0 "Gestão de Terras"
+ admin_mortal_adoration_perk_effect_first:0 "Você pode solicitar [GetPlayer.Custom('GetProvincialArmiesConcept')] de [lovers|E]"
+ admin_positions_of_power_effect_first:0 "[governor_efficiency|E]: #P +5%#!"
+ cheaper_change_state_faith_cost_effect_first:0 "$change_state_faith$ Custo: #P -[EmptyScope.ScriptValue('admin_state_faith_cost_perk_value')|0%]#!"
+ court_of_shadows_perk_bonus:0 "$court_of_shadows_perk_name$: #P +[EmptyScope.ScriptValue('court_of_shadows_perk_admin_percentage')|0]%#!"

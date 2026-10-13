@@ -1,0 +1,11 @@
+﻿l_spanish:
+ artifact_armillary_sphere_china_desc:0 "Este globo celestial foi montado por habilidosos artesãos e estudiosos chineses e é usado para cálculos relacionados a fenômenos astronômicos. Como ferramenta para examinar o calendário celeste, a esfera armilar também é um símbolo do direito divino do Filho do Céu."
+ artifact_armillary_sphere_china_name:0 "Esfera Armilar Imperial"
+ artifact_eight_fold_chest_description:0 "Este é um conjunto de oito pequenos baús, cada um dentro do outro, com a relíquia do Dedo de Buda colocada no baú central. A relíquia foi utilizada em cerimônias de boas-vindas sob sucessivos imperadores Tang antes que esses baús fossem feitos por ordem do Imperador Yizong.\n\nCada baú é intrincadamente feito em sândalo, prata, ouro e jade. O último baú é uma pagoda de quatro portas em ouro puro, abrigando o próprio dedo. O topo da pagoda é uma flor de lótus segurando uma pérola dourada."
+ artifact_eight_fold_chest_name:0 "Baú de Oito Camadas"
+ artifact_military_classics_description:0 "O 'Wujing Zongyao', ou 'Essenciais Completos dos Clássicos Militares', é uma compilação de conhecimento militar com ilustrações. Escrito por uma equipe sob Zeng Gongliang a pedido do Imperador Renzong, cobre uma ampla gama de tecnologia militar e serve como um resumo dos clássicos militares para ampla disseminação.\n\nEntre os tópicos do livro estão máquinas de cerco, guerra naval e fórmulas para a produção de explosivos."
+ artifact_military_classics_name:0 "Essenciais dos Clássicos Militares"
+ artifact_pedestal_baekje_incense_burner_description:0 "Este incensário demonstra um imenso artesanato, apesar de, segundo todos os relatos, ser um objeto muito antigo da dinastia Baekje. A tampa é adornada com um botão em forma de fênix e é circundada por 74 montanhas fundidas em camadas, além de uma rica composição de figuras e cenários."
+ artifact_pedestal_baekje_incense_burner_name:0 "Incensário de Bronze Dourado"
+ tgp_go_board:0 "Tabuleiro de Go da Sorte"
+ tgp_go_board_desc:0 "Instrumental em uma vitória retumbante contra [bg_loser.GetTitledFirstName], esta ferramenta de lazer trouxe pela primeira vez sua sorte patenteada para [bg_victor.GetTitledFirstName].\n\nAlguns podem dizer que há pouca sorte em um jogo como o go, mas este, mesmo assim, foi mantido em bom estado desde aquele evento."

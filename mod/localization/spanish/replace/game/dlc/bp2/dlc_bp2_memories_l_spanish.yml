@@ -1,0 +1,5 @@
+﻿l_spanish:
+ imaginary_friend_gained_memory:0 "ganhou um amigo imaginário"
+ imaginary_friend_gained_memory_desc:0 "Ganhei um amigo imaginário chamado [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"
+ imaginary_friend_gained_memory_desc_second_perspective:0 "você ganhou um amigo imaginário chamado [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"
+ imaginary_friend_gained_memory_desc_third_perspective:0 "[owner.GetName] ganhou um amigo imaginário chamado [ROOT.Var('imaginary_friend_name').Char.GetFirstNameNoTooltip]"

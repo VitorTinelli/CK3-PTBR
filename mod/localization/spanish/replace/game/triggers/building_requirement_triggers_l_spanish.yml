@@ -1,0 +1,9 @@
+﻿l_spanish:
+ BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName] deve ser um [castle|E], [city|E], [temple|E] ou [temple_citadel|E]"
+ BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_TRIBE_FAILED:0 "[PROVINCE.GetName] deve ser um [castle|E], [city|E], [temple|E], [tribal_holding|E] ou [temple_citadel|E]"
+ BUILDING_REQUIREMENT_HERDER_HOLDING_IN_COUNTY:0 "[PROVINCE.GetCounty.GetTitle.GetName] possui uma propriedade de [herder|E]"
+ BUILDING_REQUIREMENT_NOMAD_HOLDING_IN_COUNTY:0 "[PROVINCE.GetCounty.GetTitle.GetName] possui uma propriedade de [GetGovernment( 'nomad_government' ).GetName]"
+ BUILDING_REQUIREMENT_TRIBAL_HOLDING_IN_COUNTY:0 "[PROVINCE.GetCounty.GetTitle.GetName] tem uma propriedade [tribal|E]"
+ NOT_BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName] não é um [castle|E], [city|E], [temple|E] ou [temple_citadel|E]"
+ NOT_BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_TRIBE_FAILED:0 "[PROVINCE.GetName] não é um [castle|E], [city|E], [temple|E], [tribal_holding|E] ou [temple_citadel|E]"
+ NOT_BUILDING_REQUIREMENT_HALL_OF_HEROES_FAILED:0 "O Salão dos Heróis só pode ser usado por pagãos bálticos, eslavos e finlandeses"

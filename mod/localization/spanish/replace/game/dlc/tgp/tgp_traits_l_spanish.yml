@@ -1,0 +1,8 @@
+﻿l_spanish:
+ trait_former_emperor:0 "Ex-Imperador"
+ trait_former_emperor_desc:0 "Este personagem já foi o [ceremonial_liege|E] e mantém considerável influência mesmo após ter deixado o trono."
+ trait_former_emperor_female:0 "Ex-Imperatriz"
+ trait_former_emperor_male:0 "Ex-Imperador"
+ trait_former_tenno:0 "$emperor_joko_male_japanese$"
+ trait_former_tenno_female:0 "$emperor_joko_female_japanese$"
+ trait_former_tenno_male:0 "$emperor_joko_male_japanese$"

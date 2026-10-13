@@ -1,0 +1,12 @@
+﻿l_spanish:
+ mpo_nomad_legacy_1_name:0 "Senhores da Estepe"
+ mpo_nomad_legacy_2_effect_raid_intent_global:0 "Desbloqueia a [raid_intent|E] #EMP $raze_intent$#!"
+ mpo_nomad_legacy_2_name:0 "Terra Queimada"
+ mpo_nomad_legacy_3_effect_peace_acceptance_global:0 "Aceitação de [peace|E]: #positive_value 10#!"
+ mpo_nomad_legacy_3_name:0 "A História Secreta"
+ mpo_nomad_legacy_4_effect_kheshig_maa_global:0 "Desbloqueia os [men_at_arms|E] de [GetMaA('kheshig').GetName]"
+ mpo_nomad_legacy_4_name:0 "A Punição de Deus"
+ mpo_nomad_legacy_5_effect_pax_mongolica_global:0 "Desbloqueia a [decision|E] [GetDecisionWithKey('mpo_pax_mongolica_decision').GetName]"
+ mpo_nomad_legacy_5_name:0 "Paz do Grande Cã"
+ mpo_nomad_legacy_track_desc:0 "Pois o mundo inteiro é nosso para conquistar"
+ mpo_nomad_legacy_track_name:0 "Nômade"

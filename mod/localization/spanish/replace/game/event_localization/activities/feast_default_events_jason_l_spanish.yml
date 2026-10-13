@@ -1,0 +1,11 @@
+﻿l_spanish:
+ boasted_of_victories_modifier:0 "Gabar-se Amplamente de Vitórias"
+ feast_default_jason.100.a:0 "\"Que fortuna maior... do que sua ajuda?\""
+ feast_default_jason.100.b:0 "\"Marque estas palavras: minha vitória está assegurada!\""
+ feast_default_jason.100.b_exalt_the_crown:0 "#low duração do [modifier|E] estendida pela sua [intent|e] [THIS.Char.GetInvolvedActivityIntent.GetName]#!"
+ feast_default_jason.100.c:0 "Bebamos até que o mundo desapareça..."
+ feast_default_jason.100.c_hungee:0 "Essas bocas ansiosas devem ser fartamente alimentadas."
+ feast_default_jason.100.desc:0 "\"Nos preocupamos?\" pergunta m[Select_CString( soldier.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('soldier'))], [soldier.GetFirstName]. \"Pela causa [ROOT.Char.GetPrimaryTitle.GetAdjective] na [war.GetName]? Vejo rostos sombrios ao redor desta mesa — tão sombrios como se os exércitos [foe.GetPrimaryTitle.GetAdjective] d[Select_CString( foe.IsFemale, 'a', 'o' )] [foe.GetTitledFirstNamePossessive] estivessem à porta!\"\n\n\"Não pense demais nas suas forças no [army_location.GetTerrain.GetNameNoTooltip|l] de [army_location.GetName], nobre [ROOT.Char.GetTitleAsName],\" sorri [other_ruler.GetFirstName], [other_ruler.GetTitleAsNameNoTooltip] de [other_ruler.GetPrimaryTitle.GetNameNoTier]. \"A boa fortuna certamente estará ao seu lado.\""
+ feast_default_jason.100.t:0 "Festas de Guerra"
+ victories_reduce_stress_add_prestige_desc:0 "Vencer [battles|E] reduz @stress_icon![stress|E] e fornece @prestige_icon![prestige|E], mas perder aumenta @stress_icon![stress|E] e custa @prestige_icon![prestige|E]"
+ victories_reduce_stress_add_prestige_tt:0 "Enquanto este [modifier|E] estiver ativo, você ganhará @prestige_icon![prestige|E] e perderá @stress_icon![stress|E] ao vencer [battles|E], mas perder custará @prestige_icon![prestige|E] e aumentará @stress_icon![stress|E]"

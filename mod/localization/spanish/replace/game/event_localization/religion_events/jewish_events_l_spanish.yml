@@ -1,0 +1,6 @@
+﻿l_spanish:
+ jewish_events.0001.a:0 "Que assim seja."
+ jewish_events.0001.b:0 "Nós, [ROOT.Char.GetCulture.GetCollectiveNoun], não abandonaremos nossos costumes!"
+ jewish_events.0001.c:0 "Acredito que os Rabinos esqueceram seu lugar."
+ jewish_events.0001.desc:0 "Ao longo dos séculos, tem sido incerto se a prática de ter múltiplos cônjuges é permitida, mas após um pequeno conselho dos Rabinos mais influentes da fé do [ROOT.Char.GetFaith.GetName], foi decidido que a poligamia não é mais uma prática permitida pela fé [ROOT.Char.GetFaith.GetAdjectiveNoTooltip].\n\nA decisão é motivada principalmente pela preocupação de que uma pessoa não seria capaz de prover adequadamente para múltiplos cônjuges, e que a prática da poligamia pode levar a atos pecaminosos de ciúme entre os cônjuges."
+ jewish_events.0001.t:0 "O Fim da Poligamia [ROOT.Char.GetFaith.GetAdjectiveNoTooltip]"

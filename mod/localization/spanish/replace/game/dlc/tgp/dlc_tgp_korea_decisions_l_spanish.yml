@@ -1,0 +1,6 @@
+﻿l_spanish:
+ tgp_korea_unify_goryeo_decision:0 "Unir o Husamguk"
+ tgp_korea_unify_goryeo_decision_confirm:0 "$tgp_korea_unify_goryeo_decision$"
+ tgp_korea_unify_goryeo_decision_desc:0 "Os povos dos três reinos de Silla, Baekje e Goguryeo devem finalmente se unir como um só e voltar nossas lanças para fora se quisermos resistir às tempestades da história."
+ tgp_korea_unify_goryeo_decision_no_other_korean_kingdoms_tt:0 "[GetTitleByKey('k_silla').GetNameNoTier], [GetTitleByKey('k_goguryeo').GetNameNoTier], [GetTitleByKey('k_baekje').GetNameNoTier] estão sob domínio ou não foram criados"
+ tgp_korea_unify_goryeo_decision_tooltip:0 "Unir os Três Reinos Posteriores"

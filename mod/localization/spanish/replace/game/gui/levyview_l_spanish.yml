@@ -1,0 +1,8 @@
+﻿l_spanish:
+ LV_COUNTS:0 "[LevyView.GetLivingCount|0]/[LevyView.GetMaxCount|0]"
+ LV_FLAVOR:0 "Milícias consistem em milícias camponesas, bandidos, mercenários locais e nobres empobrecidos equipados com ferramentas diversas e armas improvisadas - seu grande número compõe a maior parte dos exércitos."
+ LV_HEADER:0 "Milícias"
+ LV_MAINTENANCE:0 "Manutenção: [gold_i][LevyView.GetMaintenanceCost|2]/mês"
+ LV_NO_COUNTERS:0 "Milícias nunca [counters|E] outros tipos"
+ LV_RAISED:0 "[LevyView.GetRaisedCount|0] levantadas"
+ LV_UNRAISED:0 "Não levantadas"

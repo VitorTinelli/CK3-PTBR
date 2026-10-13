@@ -1,0 +1,3 @@
+﻿l_spanish:
+ bows_deeply_to_firstname_or_me:0 "inclina-se profundamente para [ROOT.GetCharacter.GetFirstNameOrMe]"
+ clasps_firstnamepossessive_or_my_hands:0 "segura as [ROOT.GetCharacter.LocalPlayerString( 'minhas ', '' )]mãos[ROOT.GetCharacter.LocalPlayerString( '', 'Loc_ES_de_GetShortUIName' )]"

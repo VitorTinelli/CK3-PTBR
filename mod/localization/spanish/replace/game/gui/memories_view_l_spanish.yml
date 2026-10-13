@@ -1,0 +1,10 @@
+﻿l_spanish:
+ CHARACTER_HAS_NO_MEMORIES:0 "[Select_CString( Character.IsAlive, 'Nada de notável aconteceu ainda...', 'Essas memórias foram perdidas no tempo...')]"
+ MEMORIES_WINDOW_COPY_ENTRY:0 "[CharacterMemory.GetCreationDate.GetString]\n[CharacterMemory.GetDescription|U].\n\n"
+ MEMORIES_WINDOW_COPY_TO_CLIPBOARD:0 "$COA_DESIGNER_COPY_TO_CLIPBOARD_BUTTON$"
+ MEMORIES_WINDOW_ENTRY:0 "[CharacterMemory.GetDescription|U]."
+ MEMORIES_WINDOW_HEADING:0 "[MemoriesWindow.GetCharacter.LocalPlayerString( 'Suas ', '' )]Memórias[MemoriesWindow.GetCharacter.LocalPlayerString( '', 'Loc_ES_de_GetShortUIName' )]"
+ MEMORIES_WINDOW_PIN_IT:0 "Fixar esta janela para evitar que mude para outros personagens"
+ MEMORY_INFO:0 "Estas são as memórias sobre [Select_CString( MemoriesWindow.GetCharacter.IsValid, MemoriesWindow.GetCharacter.GetShortUINameNoTooltip, 'perdidas')]. As memórias são coisas fugazes e caprichosas - mas ainda assim preciosas e insubstituíveis. Com o tempo, todas as memórias se desvanecerão no esquecimento."
+ MEMORY_SORT_ORDER_TOOLTIP:0 "#T Alterar a ordem de classificação das memórias#!"
+ OPEN_MEMORIES_TOOLTIP:0 "#I Ver as memórias deste personagem#!"

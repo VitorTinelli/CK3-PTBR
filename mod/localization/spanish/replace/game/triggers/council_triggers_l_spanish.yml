@@ -1,0 +1,5 @@
+﻿l_spanish:
+ not_valid_for_council_position_third:0 "[CHARACTER.GetName] não pode ser nomeado como [CouncilPositionType.GetName]"
+ not_valid_for_council_task_third:0 "[CHARACTER.GetName] não pode ser nomeado como [COUNCIL_TASK.GetPositionName] para [COUNCIL_TASK.GetCourtOwner.GetName]"
+ valid_for_council_position_third:0 "[CHARACTER.GetName] pode ser nomeado como [CouncilPositionType.GetName]"
+ valid_for_council_task_third:0 "[CHARACTER.GetName] pode ser nomeado como [COUNCIL_TASK.GetPositionName] para [COUNCIL_TASK.GetCourtOwner.GetName]"

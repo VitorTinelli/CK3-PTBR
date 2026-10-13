@@ -1,0 +1,8 @@
+﻿l_spanish:
+ ARTIFACT_FORGOTTEN_SOLDIER_KILLS:0 "#S Soldados Esquecidos#!: [Artifact.GetForgottenSoldiersCount|V]"
+ ARTIFACT_KILL_LIST:0 "Assassinatos com [ArtifactKillListWindow.GetArtifact.GetName|U]"
+ DEATH_DATE:0 "Data de Morte"
+ DEATH_REASON:0 "Causa da Morte"
+ KILL_LIST:0 "Assassinatos de [KillListWindow.GetCharacter.GetUINamePossessive|U]"
+ OPEN_ARTIFACT_KILL_LIST_TOOLTIP:0 "#T Ver Assassinatos\n#!Ver todos os personagens que [Artifact.GetName] matou"
+ OPEN_KILL_LIST_TOOLTIP:0 "#T Ver Abates\n#!Veja todos os Personagens que [Character.GetShortUINameNoTooltip] [Character.LocalPlayerString('matou', 'matou')], [Character.LocalPlayerString('se quiser relembrar...', 'que você sabe...')]"

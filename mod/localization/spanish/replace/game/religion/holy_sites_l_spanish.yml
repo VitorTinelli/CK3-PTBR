@@ -1,0 +1,13 @@
+﻿l_spanish:
+ enshrine_holy_site_artifact_first:0 "[enshrine|E] [ARTIFACT.GetName] em [HOLY_SITE.GetName]"
+ enshrine_holy_site_artifact_first_past:0 "[enshrined|E] [ARTIFACT.GetName] em [HOLY_SITE.GetName]"
+ enshrine_holy_site_artifact_global:0 "$set_holy_site_owner_first$"
+ enshrine_holy_site_artifact_global_past:0 "$enshrine_holy_site_artifact_first_past$"
+ enshrine_holy_site_artifact_third:0 "$set_holy_site_owner_first$"
+ enshrine_holy_site_artifact_third_past:0 "$enshrine_holy_site_artifact_first_past$"
+ holy_site_parameter_cordoba_conversion_bonus:0 "Velocidade de Conversão do Condado de $holy_site_cordoba_name$"
+ holy_site_parameter_iona_conversion_bonus:0 "Velocidade de Conversão do Condado de $holy_site_iona_name$"
+ holy_site_parameter_jerusalem_conversion_bonus:0 "Velocidade de Conversão do Condado de $holy_site_jerusalem_name$"
+ holy_site_parameter_kerala_conversion_bonus:0 "Velocidade de Conversão do Condado de $holy_site_kerala_name$"
+ holy_site_parameter_visoki_conversion_resistance_bonus:0 "Resistência à Conversão do Condado de $holy_site_visoki_name$"
+ holy_site_parameter_wadi_el_milk_conversion_resistance_bonus:0 "Resistência à Conversão do Condado de $holy_site_wadi_el_milk_name$"

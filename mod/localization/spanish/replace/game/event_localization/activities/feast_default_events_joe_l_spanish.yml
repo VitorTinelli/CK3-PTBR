@@ -1,0 +1,11 @@
+﻿l_spanish:
+ agent_more_likely_join_scheme_reason:0 "Eventos: $VALUE|=+0$"
+ agent_more_likely_join_scheme_tt:0 "Por 6 meses, a disposição de [agent.GetShortUINamePossessive|E] para se juntar ao seu [scheme|E] [scheme.GetName|V] contra [scheme.GetTargetCharacter.GetShortUIName]: #P +25#!"
+ all_guests_agent_more_likely_join_scheme_tt:0 "Por 6 meses, a disposição de todos os participantes válidos de [activity.GetName] para se juntar ao seu [scheme|E] [scheme.GetName|V] contra [scheme.GetTargetCharacter.GetShortUIName]: #P +25#!"
+ feast_default_joe.1010.a.trigger:0 "Você é um [GetTrait('schemer').GetName( GetNullCharacter )] ou possui pelo menos [SCOPE.ScriptValue('decent_skill_rating')|0V] [intrigue|E]"
+ feast_default_joe.1010.a:0 "Incontáveis sementes podem dar frutos, se devidamente cultivadas..."
+ feast_default_joe.1010.b:0 "[agent.GetTitledFirstNameNoTooltip] será fácil de trazer para o nosso lado."
+ feast_default_joe.1010.c:0 "Onde as pessoas se reúnem, muitas oportunidades surgem."
+ feast_default_joe.1010.d:0 "Meus planos se consolidam, só preciso ser paciente."
+ feast_default_joe.1010.desc:0 "Com tantas pessoas poderosas em um só lugar, algumas palavras dispersas podem ter implicações de longo alcance...\n\nNotei que m[Select_CString( agent.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('agent'))], [agent.GetTitledFirstName], parece particularmente simpático às minhas causas."
+ feast_default_joe.1010.t:0 "Tecendo Redes"

@@ -1,0 +1,9 @@
+﻿l_spanish:
+ artifact_pedestal_bible_description:0 "Uma Bíblia iluminada encadernada em capas ajoiadas, cada versículo fruto de uma cópia paciente e devota."
+ artifact_pedestal_bible_name:0 "$artifact_name_prefix$ Bíblia"
+ artifact_pedestal_crozier_description:0 "O cajado pastoral de um bispo, trabalhado à maneira do báculo de um pastor para guiar os fiéis e instigar os desviados."
+ artifact_pedestal_crozier_name:0 "$artifact_name_prefix$ Báculo"
+ artifact_pedestal_situla_description:0 "Um vaso ricamente decorado para água benta, carregado em procissão para que bênçãos sejam aspergidas sobre os fiéis."
+ artifact_pedestal_situla_name:0 "$artifact_name_prefix$ Situla"
+ artifact_pedestal_thurible_description:0 "Um incensário finamente trabalhado em correntes polidas. Aceso, envolve o quarto em nuvens perfumadas de incenso que elevam as preces aos céus."
+ artifact_pedestal_thurible_name:0 "$artifact_name_prefix$ Turíbulo"

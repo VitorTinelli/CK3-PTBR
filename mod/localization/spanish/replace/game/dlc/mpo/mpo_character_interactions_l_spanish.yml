@@ -1,0 +1,13 @@
+﻿l_spanish:
+ action_can_interrogate:0 "@icon_scheme_challenge_status! Pode $interrogate_interaction$"
+ action_can_interrogate_click:0 "#I Clique para ver#!"
+ action_can_interrogate_combined_group_description:0 "$action_can_interrogate_desc$"
+ action_can_interrogate_combined_group_label:0 "$action_can_interrogate_label$"
+ action_can_interrogate_combined_group_name:0 "$action_can_interrogate$"
+ action_can_interrogate_combined_label:0 "$action_can_interrogate_label$"
+ action_can_interrogate_desc:0 "Pergunte sobre a carta misteriosa."
+ action_can_interrogate_label:0 "@icon_scheme_challenge_status! Você pode $interrogate_interaction$ [recipient.GetShortUIName]"
+ interrogate_interaction:0 "Interrogar"
+ interrogate_interaction_desc:0 "Pergunte a [recipient.GetShortUIName|U] o que [recipient.GetSheHe] sabe sobre a carta misteriosa"
+ interrogate_interaction_recipient_tt:0 "Será necessário oferecer uma explicação"
+ interrogate_interaction_tt:0 "Você pode descobrir informações sobre a carta misteriosa"

@@ -1,0 +1,10 @@
+﻿l_spanish:
+ bad_influence_modifier:0 "Má Influência"
+ bad_influence_modifier_desc:0 "Este personagem é conhecido como um patife infame que frequentemente leva outros ao erro."
+ drunk_high_spirits:0 "Alto-astral"
+ drunk_high_spirits_desc:0 "Este personagem está se excedendo na bebida, esvaziando todos os estoques de álcool que encontra."
+ feast_default_axel.1001.a:0 "Infelizmente para eles, já esvaziei as reservas."
+ feast_default_axel.1001.b:0 "Aqui, deixe-me mostrar..."
+ feast_default_axel.1001.c:0 "Saiam daqui ou serão chicoteados!"
+ feast_default_axel.1001.desc:0 "\"Eu — #EMP HIC#! — prometo, é aqui que [Select_CString( ROOT.Char.IsFemale, 'nossa boa', 'nosso bom' )] [ROOT.Char.GetTitleAsNameNoTooltip] guarda o melhor de suas bebidas,\" ouço m[Select_CString( youngster_1.IsFemale, 'eu', 'inha' )] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('youngster_1'))] [youngster_1.GetTitledFirstName] dizendo [Select_CString( youngster_2.IsFemale, 'a', 'ao' )] [youngster_2.GetTitledFirstName] enquanto saqueiam minha adega.\n\nFica claro que esses dois encontraram afinidade um no outro e estão desrespeitando minhas boas graças."
+ feast_default_axel.1001.t:0 "A Loucura da Juventude"

@@ -1,0 +1,5 @@
+﻿l_spanish:
+ clerical_chastity_renounced_vow_clergy_disapproval_modifier:0 "Promessa Sagrada Quebrada"
+ clerical_chastity_renounced_vow_clergy_disapproval_modifier_desc:0 "Tendo renunciado a um voto público de castidade, este personagem é visto com suspeita pelo [clergy|E]."
+ clerical_chastity_vow_modifier:0 "Voto Clerical de Castidade"
+ clerical_chastity_vow_modifier_desc:0 "Este personagem foi forçado a uma promessa de castidade por um sacerdote, e não por livre escolha. Enquanto o voto vigorar, ele não pode iniciar uma sedução ou cortejo."

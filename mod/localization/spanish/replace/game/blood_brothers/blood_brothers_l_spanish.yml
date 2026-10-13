@@ -1,0 +1,4 @@
+﻿l_spanish:
+ GAIN_FROM_ALL_BLOOD_BROTHERS:0 "De [blood_brothers|E]"
+ GAIN_FROM_BLOOD_BROTHER:0 "[CHARACTER.GetName]"
+ blood_brother_and_tier:0 "[blood_brother|E] de [CHARACTER.GetPrimaryTitle.GetTierAsNameNoTooltip]"

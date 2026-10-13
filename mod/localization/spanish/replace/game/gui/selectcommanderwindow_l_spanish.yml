@@ -1,0 +1,13 @@
+﻿l_spanish:
+ CANT_COMMAND_REASON_AT_WAR:0 " -Está em guerra contra [TARGET_CHARACTER.GetUIName]"
+ CANT_COMMAND_REASON_BEING_RAISED:0 " -Está sendo levantado como um [CHARACTER.Custom( 'KnightCulture' )]"
+ CANT_COMMAND_REASON_CHILD:0 " -Não é adult[CHARACTER.Custom('ES_OA')]"
+ CANT_COMMAND_REASON_COMMANDING:0 " -Está comandando outro exército"
+ CANT_COMMAND_REASON_DEAD:0 " -Está morto"
+ CANT_COMMAND_REASON_FEMALE:0 " -É uma mulher"
+ CANT_COMMAND_REASON_IN_ACTIVITY:0 " -Está ocupad[CHARACTER.Custom('ES_OA')] com outra atividade"
+ CANT_COMMAND_REASON_IN_POOL:0 " -Está em reserva"
+ CANT_COMMAND_REASON_NOT_POTENTIAL:0 " -Não segue ordens do dono do exército"
+ CANT_COMMAND_REASON_WOULD_DESTROY_ARMY:0 " -Remover [CHARACTER.GetUIName] de [CHARACTER.GetKnightArmy.GetName|^V] desmantelaria isso"
+ CANT_COMMAND_TITLE:0 "#T [CHARACTER.GetUIName] não pode comandar um exército#!"
+ DETACH_COMMANDER:0 "Remover Comandante"

@@ -1,0 +1,10 @@
+﻿l_spanish:
+ fabricate_hook_building_influence_modifier:0 "Influência na Construção"
+ fabricate_hook_careful_study_modifier:0 "Estudo Cuidadoso"
+ fabricate_hook_family_speed_modifier:0 "Muitos Contatos"
+ fabricate_hook_family_success_modifier:0 "Fraqueza Familiar"
+ fabricate_hook_gossip_modifier:0 "Reputação Manchada"
+ fabricate_hook_interfering_with_servants_modifier:0 "Interferindo com Servos"
+ fabricate_hook_servant_modifier:0 "Servos Desleais"
+ fabricate_hook_studied_personality_modifier:0 "Personalidade Estudada"
+ fabricate_hook_suspicious_target_modifier:0 "Alvo Suspeito"

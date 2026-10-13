@@ -1,0 +1,7 @@
+﻿l_spanish:
+ personal_scheme_ongoing.1000.a:0 "Sim, gostaria de usar meu presente exótico."
+ personal_scheme_ongoing.1000.b:0 "Melhor eu guardar isso."
+ personal_scheme_ongoing.1000.desc:0 "Agora que estou envolvid[Select_CString( ROOT.Char.IsFemale, 'a', 'o' )] em um esquema ativo de [scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip] contra [scheme_to_apply_gift_to.GetTarget.GetTitledFirstName], devo considerar presentear [scheme_to_apply_gift_to.GetTarget.GetSheHe] com as mercadorias exóticas que comprei em minha peregrinação para"
+ personal_scheme_ongoing.1000.desc_gift:0 "[ROOT.Var('6540_exotic_wares_gift').GetProvince.GetName]."
+ personal_scheme_ongoing.1000.desc_super_gift:0 "[ROOT.Var('6540_exotic_wares_super_gift').GetProvince.GetName]."
+ personal_scheme_ongoing.1000.t:0 "[scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip]: Um Presente Exótico"

@@ -1,0 +1,8 @@
+﻿l_spanish:
+ feast_events_tova.0001.a:0 "Um lugar digno para receber nós, grandes guerreiros!"
+ feast_events_tova.0001.b.failure:0 "Seu palácio impressiona [honorary_guest.GetTitledFirstNameNoTooltip], mas sua ostentação não causa impacto"
+ feast_events_tova.0001.b.success:0 "Sua demonstração de opulência impressiona muito [Select_CString( honorary_guest.IsFemale, 'a', 'o' )] [honorary_guest.GetTitledFirstNameNoTooltip]"
+ feast_events_tova.0001.b:0 "Deixe-me lhe mostrar tudo, [honorary_guest.GetTitledFirstNameNoTooltip]."
+ feast_events_tova.0001.c:0 "De fato, isto é uma grande prova do meu governo."
+ feast_events_tova.0001.desc:0 "Meus convidados se movem como se estivessem presos em um sonho ambulante, encantados com a cúpula ensolarada e a espetacular fonte do meu palácio. O rico incenso do jardim se espalha pelo ar e provoca um efeito extremamente agradável nos corações e almas daqueles que o sentem. \n\n[ROOT.Char.Custom('FormOfAddressForLiege')|U], você se superou com este lugar! O talento dos seus arquitetos brilha em cada detalhe,\" diz [honorary_guest.GetTitledFirstName], e um murmúrio de aprovação percorre a multidão ao redor dele. \n\nTodos os convidados presentes se voltam para mim com expectativa, como se aguardassem que eu dissesse algumas palavras sobre o palácio."
+ feast_events_tova.0001.t:0 "Uma Maravilha para as Eras"

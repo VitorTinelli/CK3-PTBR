@@ -1,0 +1,13 @@
+﻿l_spanish:
+ mothered_many_children_modifier:0 "Mãe de muitos filhos"
+ parent_aids_diplomacy_modifier:0 "Pais ajudam nos esforços diplomáticos"
+ parent_aids_intrigue_modifier:0 "Pais ajudam nos esforços de intriga"
+ parent_aids_learning_modifier:0 "Pais ajudam nos esforços de aprendizado"
+ parent_aids_martial_modifier:0 "Pais ajudam nos esforços militares"
+ parent_aids_stewardship_modifier:0 "Pais ajudam nos esforços de administração"
+ parent_dealing_with_courtiers_modifier:0 "Pais lidando com cortesãos"
+ parent_dealing_with_courtiers_modifier_desc:0 "Este personagem tem um pai que mantém um olho atento em seus cortesãos."
+ parent_events_wrangling_courtiers_modifier:0 "Dominando cortesãos"
+ parent_events_wrangling_courtiers_modifier_desc:0 "Este personagem mantém um olho atento em sua corte, para manter seus cortesãos na linha."
+ parent_managing_county_modifier:0 "Pai Administrando Condado"
+ parent_managing_county_modifier_desc:0 "Este personagem tem um pai que vigia de perto este condado."

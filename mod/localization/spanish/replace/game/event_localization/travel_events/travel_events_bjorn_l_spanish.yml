@@ -1,0 +1,11 @@
+﻿l_spanish:
+ custom.every_brave_or_impatient_entourage_member:0 "Todo membro da comitiva com [GetTrait('brave').GetName( GetNullCharacter )] ou [GetTrait('impatient').GetName( GetNullCharacter )]"
+ custom.every_craven_or_impatient_entourage_member:0 "Todo membro da comitiva com [GetTrait('craven').GetName( GetNullCharacter )] ou [GetTrait('impatient').GetName( GetNullCharacter )]"
+ custom.every_cynical_or_impatient_entourage_member:0 "Todo membro da comitiva com [GetTrait('cynical').GetName( GetNullCharacter )] ou [GetTrait('impatient').GetName( GetNullCharacter )]"
+ custom.every_eccentric_or_zealous_entourage_member:0 "Todo membro da comitiva com [GetTrait('eccentric').GetName( GetNullCharacter )] ou [GetTrait('zealous').GetName( GetNullCharacter )]"
+ travel_events.5100.a:0 "\"Não temo nenhum [ROOT.Char.GetCurrentLocation.Custom('GetProvinceTricksterSpirit')] ou demônio!\""
+ travel_events.5100.b:0 "\"Não existe isso, [superstitious_traveler.GetTitledFirstNameNoTooltip].\""
+ travel_events.5100.c:0 "\"Devemos rezar para afastar esse espírito.\""
+ travel_events.5100.d:0 "\"Que medo! Vamos procurar outro caminho.\""
+ travel_events.5100.desc:0 "“Meu senhor! Esta ponte tem uma reputação terrível. Um(a) [ROOT.Char.GetCurrentLocation.Custom('GetProvinceTricksterSpirit')] vive sob ela!” grita [Select_CString( superstitious_traveler.IsFemale, 'minha', 'meu' )] [ROOT.Char.Custom2('RelationToMe', superstitious_traveler)] [superstitious_traveler.GetTitledFirstName]. “Certamente ele virá até nós, ou nos amaldiçoará de longe enquanto passamos.”\n\nOs membros do meu grupo começam a sussurrar entre si. Alguns invocam o nome de [ROOT.Char.GetFaith.HighGodName] por proteção. Infelizmente, a ponte é o único lugar seguro para atravessar por milhas."
+ travel_events.5100.t:0 "A Ponte de [ROOT.Char.GetCurrentLocation.Custom('GetProvinceTricksterSpirit')|U]"

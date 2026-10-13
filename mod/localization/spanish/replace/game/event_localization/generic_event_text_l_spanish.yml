@@ -1,0 +1,2 @@
+﻿l_spanish:
+ letter_opening:0 "Para m[Select_CString( ROOT.Char.IsFemale, 'inha', 'eu' )] [activity.GetOwner.Custom2('RelationDescriptor', ROOT.Char)] [activity.GetOwner.Custom2('RelationToMe', ROOT.Char)], [ROOT.Char.GetTitledFirstName].\n\n"

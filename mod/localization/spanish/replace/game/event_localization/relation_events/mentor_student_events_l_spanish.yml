@@ -1,0 +1,11 @@
+﻿l_spanish:
+ mentor_student.0001.a:0 "Muito bem."
+ mentor_student.0001.desc:0 "\"Isso não pode continuar, [ROOT.Char.GetFirstNameNoTooltip]!\" M[Select_CString( mentor_to_lose.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )] [mentor_to_lose.GetTitledFirstName] exclama, [mentor_to_lose.Custom('quirk_neg_pp')].\n\n\"Nossa relação acabou, somos muito diferentes para dar certo. Agora você está por conta própria.\""
+ mentor_student.0001.t:0 "O Que Já Foi"
+ mentor_student.0002.a:0 "[mentor_to_lose.GetSheHe|U] realmente me ensinou muito!"
+ mentor_student.0002.b:0 "Sinto que nossa relação ficará ainda mais forte agora."
+ mentor_student.0002.desc:0 "\"Não há mais nada que eu possa te ensinar.\"\n\nM[Select_CString( mentor_to_lose.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )] [mentor_to_lose.GetTitledFirstName] sorri [mentor_to_lose.Custom('quirk_pos_adverb')] e acena. \"Você aprendeu muito, mas para avançar ainda mais em seus estudos, você precisa seguir seu próprio caminho.\""
+ mentor_student.0003.a:0 "Essa relação acabou."
+ mentor_student.0003.b:0 "Se esse é o preço pelo conhecimento..."
+ mentor_student.0003.desc:0 "M[Select_CString( mentor_to_lose.IsFemale, 'inha', 'eu' )] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )] [mentor_to_lose.GetTitledFirstName] sorri [mentor_to_lose.Custom('quirk_neg_adverb')] enquanto [mentor_to_lose.GetSheHe] me conta sobre suas últimas #EMP vitórias#!.\n\nAinda posso ter coisas a aprender, mas está ficando cada vez mais difícil tolerar [Select_CString( mentor_to_lose.IsFemale, 'a', 'o' )] [mentor_to_lose.GetFirstName] como pessoa."
+ mentor_student.0003.t:0 "Segundas Intenções"

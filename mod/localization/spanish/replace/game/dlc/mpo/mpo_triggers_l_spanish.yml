@@ -1,0 +1,13 @@
+﻿l_spanish:
+ current_domain_fertility_first:0 "A [county_fertility|E] em seu [domain|E] é $COMPARATOR$ $NUM|V0$"
+ current_domain_fertility_global:0 "[county_fertility|E] no [domain|E] é $COMPARATOR$ $NUM|V0$"
+ current_domain_fertility_third:0 "A [county_fertility|E] no [domain|E] de [CHARACTER.GetNamePossessive] é $COMPARATOR$ $NUM|V0$"
+ dominance_law_cost_scale:0 "[nomadic_authority|E]"
+ era_law_cost_scale:0 "[ROOT.Char.GetCulture.GetCultureEra.GetNameNoTooltip]"
+ max_domain_fertility_first:0 "A [county_fertility|E] máxima em seu [domain|E] é $COMPARATOR$ $NUM|V0$"
+ max_domain_fertility_global:0 "A [county_fertility|E] máxima no [domain|E] é $COMPARATOR$ $NUM|V0$"
+ max_domain_fertility_third:0 "A [county_fertility|E] máxima no [domain|E] de [CHARACTER.GetNamePossessive] é $COMPARATOR$ $NUM|V0$"
+ poor_prowess_law_cost_tooltip:0 "Baixa [prowess|E]"
+ prowess_law_cost_tooltip:0 "Habilidade de [prowess|E]"
+ tenet_warmonger_law_cost_tooltip:0 "[GetFaithDoctrine('tenet_warmonger').GetBaseName]"
+ tier_law_cost_scale:0 "[ROOT.Char.GetPrimaryTitle.GetTierAsName]"

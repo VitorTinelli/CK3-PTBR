@@ -1,0 +1,25 @@
+name: Relatar problema de tradução
+description: Texto estranho, inglês/espanhol, código na tela ou erro de formatação.
+title: '[Tradução] '
+body:
+  - type: textarea
+    id: local
+    attributes:
+      label: Onde aparece?
+      description: Informe a tela, evento ou menu e, se possível, anexe uma captura.
+    validations:
+      required: true
+  - type: textarea
+    id: texto
+    attributes:
+      label: Texto atual e sugestão
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do jogo e do mod
+  - type: textarea
+    id: mods
+    attributes:
+      label: Outros mods ativos

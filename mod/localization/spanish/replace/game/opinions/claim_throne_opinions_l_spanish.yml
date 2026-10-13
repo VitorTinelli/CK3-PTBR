@@ -1,0 +1,9 @@
+﻿l_spanish:
+ claim_my_throne_failure_opinion:0 "Tentou falsificar um direito ao trono"
+ claim_my_throne_success_discovered_opinion:0 "Falso pretendente ao trono"
+ claim_my_throne_success_undiscovered_opinion:0 "Pretendente repentino ao trono"
+ claim_throne_aiding_liege_opinion:0 "Me apoiou"
+ claim_throne_bought_support_opinion:0 "Comprou meu apoio"
+ claim_throne_forged_letter_opinion:0 "Enganou a nobreza"
+ claim_throne_self_declared_opinion:0 "Autodeclarado governante"
+ claim_throne_tricked_peasants_opinion:0 "Enganou os camponeses"
