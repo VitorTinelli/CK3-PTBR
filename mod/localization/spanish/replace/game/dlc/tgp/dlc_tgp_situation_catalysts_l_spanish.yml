@@ -40,7 +40,7 @@
  catalyst_great_project_establish_control_contribution:0 "$catalyst_great_project_contribution_common$"
  catalyst_great_project_establish_control_contribution_desc:0 "Contribuição para [Concept('great_project','Estabelecer Controle')|E] $catalyst_great_project_contribution_desc_suffix_common$"
  catalyst_great_project_great_wall_contribution:0 "$catalyst_great_project_contribution_common$"
- catalyst_great_project_great_wall_contribution_desc:0 "Contribuição para o [Concept('great_project','Great Wall')|E] $catalyst_great_project_contribution_desc_suffix_common$"
+ catalyst_great_project_great_wall_contribution_desc:0 "Contribuição para o [Concept('great_project','Grande Muralha')|E] $catalyst_great_project_contribution_desc_suffix_common$"
  catalyst_great_wall:0 "Construção da $building_the_great_wall_01$ [situation_catalyst|E]"
  catalyst_great_wall_desc:0 "$building_the_great_wall_01$ foi atualizado ou expandido"
  catalyst_hegemon_above_legitimacy_yearly:0 "Ano com [legitimacy|E] Acima do Esperado [dynastic_cycle_catalyst|E]"

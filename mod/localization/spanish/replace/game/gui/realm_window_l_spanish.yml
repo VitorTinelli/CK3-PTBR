@@ -26,7 +26,7 @@
  LIST_LEVIES_STRING:0 "@soldier_icon![levies|E]: $CURRENT|0V$/$MAX|0V$ "
  LIST_MAA_STRING:0 "[men_at_arms|E]: $CURRENT|0V$/$MAX|0V$"
  LIST_MERCENARIES_STRING:0 "[mercenaries|E]: $CURRENT|0V$"
- MILITARY_STRENGTH_RATIO:0 "[CHARACTER.GetShortUIName|U] has $VALUE|V%0$ do nosso número de soldados"
+ MILITARY_STRENGTH_RATIO:0 "[CHARACTER.GetShortUIName|U] possui $VALUE|V%0$ do nosso número de soldados"
  MILITARY_STRENGTH_RATIO_NO_STRENGTH:0 "Nós não temos nenhum soldado"
  MY_REALM:0 "Meu Reino"
  REALM_OF_CHARACTER:0 "Reino de [CHARACTER.GetUIName]"

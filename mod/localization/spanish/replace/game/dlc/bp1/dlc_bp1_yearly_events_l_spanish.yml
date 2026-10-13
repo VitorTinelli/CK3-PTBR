@@ -54,7 +54,7 @@
  bp1_yearly.5100.desc.end:0 "Isso nunca foi um problema para você, não é mesmo?\""
  bp1_yearly.5100.desc.fallback:0 "perfeitamente formado!"
  bp1_yearly.5100.desc.female:0 "naturalmente bonita!"
- bp1_yearly.5100.desc.male:0 "ruggedly handsome!"
+ bp1_yearly.5100.desc.male:0 "de uma beleza viril!"
  bp1_yearly.5100.desc.scarred:0 "nobre, com essas cicatrizes!"
  bp1_yearly.5100.desc.swole:0 "atraente, e construído como uma estátua!"
  bp1_yearly.5100.desc:0 "Meu [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('unloved_courtier'))] [unloved_courtier.GetName] parece desanimado há mais de uma semana e é o quinto suspiro pesado e desanimado do dia que finalmente me faz perguntar gentilmente qual é o problema. \n\n\"Estou tão solitário. Tudo o que eu quero é alguém especial! Alguém para ficar ao meu lado durante o dia e dividir minha cama à noite!\" [unloved_courtier.GetSheHe|U] pausa, então balança a cabeça tristemente. \n\n\"O que estou dizendo? Você não entende minha luta, não é, [ROOT.Char.Custom('FormOfAddressForLiege')]? Olhe para você! Você é tão"

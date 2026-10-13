@@ -106,7 +106,7 @@
  humility_house_aspiration_level_03:0 "Zelosos"
  humility_house_power_tt:0 "Requer a [house_aspiration|E] #V $humility_house_aspiration$#!"
  hunt_completed_merit_gain_log:0 "[house|E] de [CHARACTER.GetShortUIName] valoriza caçadas - ganhando [merit|E] [CharYourHerHimself( CHARACTER )]"
- hunt_completed_merit_gain_log_title:0 "Merit Gained"
+ hunt_completed_merit_gain_log_title:0 "Mérito Obtido"
  japan_administrative_government_house_attribute_flavor_name:0 "[house_aspiration|E]"
  japan_administrative_government_house_attribute_flavor_name_no_tooltip:0 "$game_concept_house_aspiration$"
  japan_feudal_government_house_attribute_flavor_name:0 "[house_aspiration|E]"

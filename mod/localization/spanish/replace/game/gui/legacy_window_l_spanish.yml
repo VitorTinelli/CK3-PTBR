@@ -12,7 +12,7 @@
  LEGACY_FINISHER_PERKS_LIST:0 "[perks|E] do Finalizador:\n$LIST$"
  LEGACY_FOUNDED_FAITH:0 "#T Fundou uma [faith|E]\n#!É o fundador da of [LegacyItem.GetFoundedFaith.GetName]"
  LEGACY_FOUNDED_HOUSE:0 "#T Fundou uma [house|E]\n#!É o fundador da Casa [LegacyItem.GetFoundedHouse.GetName]"
- LEGACY_GAME_OVER:0 "Game Over"
+ LEGACY_GAME_OVER:0 "Fim de Jogo"
  LEGACY_HEADER:0 "Linhagem"
  LEGACY_HOSTED_ACTIVITIES:0 "#T Hospedou [LegacyItem.GetNumActivitiesHosted] [activities|E]#!\n[LegacyItem.GetActivitiesHostedTooltip]"
  LEGACY_IS_AT_WAR:0 "@warning_icon! Em [war|X]!"

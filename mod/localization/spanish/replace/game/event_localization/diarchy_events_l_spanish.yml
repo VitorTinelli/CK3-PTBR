@@ -541,7 +541,7 @@
  diarchy.9021.desc.proxy.betrayed:0 "$diarchy.9011.desc.proxy.betrayed$"
  diarchy.9021.desc.proxy.loyal:0 "Olho para [proxy.GetTitledFirstName] em busca de apoio, apenas para vê-l[Select_CString( proxy.IsFemale, 'a', 'o' )] já se preparando para lutar ao meu lado."
  diarchy.9021.desc.proxy.none:0 "$diarchy.9011.desc.proxy.none$"
- diarchy.9021.t:0 "$diarch_attempt_to_overthrow_liege.event.t$ Gleaming Swords"
+ diarchy.9021.t:0 "$diarch_attempt_to_overthrow_liege.event.t$ Espadas Reluzentes"
  diarchy.9022.a:0 "Você irá diretamente para [liege.GetFaith.random_NegativeAfterLife] por isso, [usurper.GetFirstNameNoTooltip]."
  diarchy.9022.b:0 "$diarchy.9002.b$"
  diarchy.9022.desc.intro:0 "$diarchy.9002.desc.intro$"

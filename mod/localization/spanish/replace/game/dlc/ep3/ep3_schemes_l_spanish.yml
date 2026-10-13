@@ -233,7 +233,7 @@
  raid_estate_estate_tt:0 "[recipient.GetShortUIName] deve ter uma [estate|E] [domicile|E]"
  raid_estate_gain_coin_tt:0 "Você pode ganhar @gold_icon![gold|E]"
  raid_estate_house_modifier_tt:0 "[house|E] [recipient.GetHouse.GetName] ganha [GetModifier('ep3_estate_raided_modifier').GetNameWithTooltip]"
- raid_estate_house_modifier_tt_japan:0 "[house|E] [recipient.GetHouse.GetName] gains [GetModifier('ep3_manor_raided_modifier').GetNameWithTooltip]"
+ raid_estate_house_modifier_tt_japan:0 "A [house|E] [recipient.GetHouse.GetName] recebe [GetModifier('ep3_manor_raided_modifier').GetNameWithTooltip]"
  raid_estate_house_opinion:0 "Propriedade da Casa Invadida"
  raid_estate_invalidated_title:0 "@scheme_icon! O esquema de Invadir Propriedade termina"
  raid_estate_kill_maim_imprison_house_members_tt:0 "Membros da [house|E] [recipient.GetHouse.GetName] podem ser mortos, mutilados ou aprisionados dependendo de suas escolhas"

@@ -1,5 +1,5 @@
 ﻿l_spanish:
- GAMESTATE_CHECKSUM:0 "Gamestate checksum"
+ GAMESTATE_CHECKSUM:0 "Soma de verificação do estado do jogo"
  LIVING_CHARACTERS:0 "Personagens Vivos"
  MULTIPLAYER_GUI_CLICK_TO_SELECT:0 "Clique no mapa para selecionar um [character|E] para jogar, ou para criar seu próprio governante como substituto!"
  MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY:0 "Somente Microsoft"

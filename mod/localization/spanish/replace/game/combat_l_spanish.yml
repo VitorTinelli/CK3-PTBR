@@ -24,7 +24,7 @@
  COMBAT_OVERRUN_TOOLTIP:0 "Se um exercito for derrotado no começo da batalha, ele sera completamento destruído"
  COMBAT_PHASE_TOOLTIP:0 "[CombatWindow.GetPhaseTooltip]\n\n[CombatWindow.GetCombat.PhaseFrozenInfo]"
  COMBAT_PREDICTION_COMBAT_HEADER:0 "Potencial de Batalha (em $DURATION$)"
- COMBAT_PREDICTION_DEBUG_SCORE:0 "#D (DEBUG SCORE: $VALUE$)#!"
+ COMBAT_PREDICTION_DEBUG_SCORE:0 "#D (PONTUAÇÃO DE DEPURAÇÃO: $VALUE$)#!"
  COMBAT_PREDICTION_EDGE_BETTER_COMMANDER:0 "Melhor [army_commander|E]"
  COMBAT_PREDICTION_EDGE_COMMANDER_TRAITS:0 "Mais [commander_traits|E]"
  COMBAT_PREDICTION_EDGE_MAA_COUNTER:0 "Mais [men_at_arms_counter|E]"

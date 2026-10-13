@@ -19,7 +19,7 @@
  CHRISTIAN_CHURCH_VIEW_CHARACTER_SCHISM_STANCE:0 "@icon_schism! [Rite.GetNameNoTooltip]"
  CHRISTIAN_CHURCH_VIEW_CHARACTER_SCHISM_STANCE_COMPETITOR:0 "[GetSituation('the_christian_church').MakeScope.Var('schism_competitor_rite').Rite.GetName]"
  CHRISTIAN_CHURCH_VIEW_CHARACTER_SCHISM_STANCE_MAINLINE:0 "[GetSituation('the_christian_church').MakeScope.Var('schism_mainline_rite').Rite.GetName]"
- CHRISTIAN_CHURCH_VIEW_CHARACTER_SCHISM_STANCE_TT:0 "#high [Character.GetFirstNameNoTooltip]#! apoia [Rite.GetName] no [Concept( 'schism', 'Great Schism')|E]"
+ CHRISTIAN_CHURCH_VIEW_CHARACTER_SCHISM_STANCE_TT:0 "#high [Character.GetFirstNameNoTooltip]#! apoia [Rite.GetName] no [Concept( 'schism', 'Grande Cisma')|E]"
  CHRISTIAN_CHURCH_VIEW_CURRENT_CHAPTER_TAG:0 "Capítulo Atual"
  CHRISTIAN_CHURCH_VIEW_FUTURE_CHAPTERS:0 "Futuros Capítulos Potenciais"
  CHRISTIAN_CHURCH_VIEW_HISTORY_BUTTON_TT:0 "#T História da Igreja Cristã#!\n\n#I Clique para ver#!"

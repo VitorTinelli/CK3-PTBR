@@ -661,7 +661,7 @@
  ep3_laamps.0401.imprison:0 "Eu tenho aquel[Select_CString( target.IsFemale, 'a', 'e' )] [target.Custom2('InsultAdjective', ROOT.Char)] fals[Select_CString( ROOT.Char.IsFemale, 'a', 'o' )]-[ROOT.Char.GetTitleAsNameNoTooltip], [target.GetFirstName], arrastado diante de mim, em sua própria sala do trono, minha prisioneira para fazer o que eu quiser!"
  ep3_laamps.0401.outro:0 "[Select_CString( target.IsFemale, 'Aquela maldita', 'Aquele maldito' )] [target.Custom2('InsultAdjective', ROOT.Char)] falso-[ROOT.Char.GetTitleAsNameNoTooltip], [target.GetFirstName], conseguiu escapar — uma ameaça à minha posição enquanto [target.GetSheHe] estiver livre."
  ep3_laamps.0401.t:0 "$seize_realm$: [Select_CString( ROOT.Char.IsFemale, 'A Nova', 'O Novo' )] [ROOT.Char.GetTitleAsNameNoTooltip]"
- ep3_laamps.0402.a:0 "Damn you, eu estava #EMP tão perto#!"
+ ep3_laamps.0402.a:0 "Maldição, eu estava #EMP tão perto#!"
  ep3_laamps.0402.b:0 "Maldita fortuna..."
  ep3_laamps.0402.c:0 "Droga!"
  ep3_laamps.0402.death:0 "Lutamos com afinco, mas logo fomos cercados.\n\nAo me virar para correr, vejo que não há escape, e soldados correm em minha direção, espadas erguidas!"

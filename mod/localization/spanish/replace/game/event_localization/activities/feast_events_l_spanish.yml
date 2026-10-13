@@ -168,7 +168,7 @@
  feast.7207.c.devoured.flavor:0 "Deixo o prato intocado, seja qual for a ofensa que isso cause."
  feast.7207.c.devoured:0 "Eu não consigo digerir isso."
  feast.7207.desc.devoured.guest:0 "Meu/Minha [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('goh'))] [goh.GetTitledFirstName] está ausente da mesa principal há algum tempo. Estou prestes a perguntar para onde [goh.GetSheHe] foi quando uma porção fumegante de carne vermelha suculenta chega ao meu prato.\n\n\"Sempre me perguntei qual é o gosto de [goh.GetFirstNameNoTooltip]\", diz [ritual_neighbor.GetTitledFirstName] mastigando um bocado de carne."
- feast.7207.t:0 "Toast Mortem"
+ feast.7207.t:0 "Brinde Fúnebre"
  feast_alliance_effect_tooltip:0 "[guest.GetTitledFirstName] e eu entramos em uma [alliance|E] mútua"
  feast_courses_bad:0 "Satisfatório"
  feast_courses_bad_desc:0 "$EFFECT_LIST_BULLET$ Pequeno ganho de [opinion|E]\n$EFFECT_LIST_BULLET$ Muito Pouco Ganho de [opinion|E] do [vassal|E] [GetVassalStance( 'courtly' ).GetTextIcon][GetVassalStance( 'courtly' ).GetName]\n\n#weak Com meia dúzia ou menos de rodadas de pratos, os convidados aqui certamente ficarão satisfeitos. Se não particularmente impressionados.#!"

@@ -75,7 +75,7 @@
  POTENTIAL_HIDE_TASK_TT:0 "#T Ocultar lista de tarefas disponíveis#!"
  POTENTIAL_LOCATION_ASSIGN:0 "Atribuir"
  POTENTIAL_LOCATION_CANCEL:0 "Cancelar"
- POTENTIAL_LOCATION_COURT_TITLE:0 "Available Courts"
+ POTENTIAL_LOCATION_COURT_TITLE:0 "Cortes Disponíveis"
  POTENTIAL_LOCATION_SELECT_TT_NOT_SELECTED:0 "#T Atribuir Tarefa #! \n@warning_icon! #X Esta tarefa deve ser atribuída a um condado específico #!\n\n#I Clique no mapa ou escolha um condado da lista#!"
  POTENTIAL_LOCATION_SELECT_TT_SELECTED:0 "#T Atribuir Tarefa #!"
  POTENTIAL_LOCATION_TITLE:0 "Condados Disponíveis"

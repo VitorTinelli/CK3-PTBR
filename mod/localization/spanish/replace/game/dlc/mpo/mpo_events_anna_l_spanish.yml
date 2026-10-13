@@ -28,7 +28,7 @@
  mpo_events_anna.0015.b:0 "Mentir dizendo que a armadilha era minha desde o início."
  mpo_events_anna.0015.c:0 "Liberar o animal para ter uma chance de crescer."
  mpo_events_anna.0015.d:0 "Não é meu para tomar."
- mpo_events_anna.0015.desc:0 "Faint bestial cries and whimpers echo across the hills. Curious, I approach to take a closer look.\n\nHá um cervo abandonado preso em uma [Glossary( 'khogste', 'KHOGSTE_GLOSS' )], tentando desesperadamente puxar sua perna para fora enquanto chama pela proteção de sua mãe — mas sem sucesso.\n\nEmbora não seja algo que devamos tomar, devemos fazer tudo o que pudermos para sobreviver à árdua jornada que temos pela frente."
+ mpo_events_anna.0015.desc:0 "Fracos gritos e gemidos de um animal ecoam pelas colinas. A curiosidade me leva a chegar mais perto para investigar.\n\nHá um cervo abandonado preso em uma [Glossary( 'khogste', 'KHOGSTE_GLOSS' )], tentando desesperadamente puxar sua perna para fora enquanto chama pela proteção de sua mãe — mas sem sucesso.\n\nEmbora não seja algo que devamos tomar, devemos fazer tudo o que pudermos para sobreviver à árdua jornada que temos pela frente."
  mpo_events_anna.0015.t:0 "Um Pedaço de Carne"
  mpo_events_anna.0020.a.toast.bad:0 "Você não tratou as feridas do mensageiro"
  mpo_events_anna.0020.a.toast.good:0 "Você tratou com sucesso as feridas do mensageiro"

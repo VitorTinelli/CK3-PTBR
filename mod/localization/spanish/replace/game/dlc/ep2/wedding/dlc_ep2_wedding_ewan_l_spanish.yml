@@ -37,7 +37,7 @@
  ep2_wedding_ewan.0001.desc.t2.hate.stubborn:0 "\"Na minha opinião, isso deveria ser uma celebração para a cerimônia,\" opina [char_2.GetFirstNameNoTooltip], \"então deveria ter correspondido à sua importância e ter sido completo.\""
  ep2_wedding_ewan.0001.desc.t2.hate.wrathful:0 "\"Sinceramente, eu esperava um pouco mais de agitação do evento,\" [char_2.GetFirstNameNoTooltip] resmunga."
  ep2_wedding_ewan.0001.desc.t2.hate.zealous:0 "$ep2_wedding_ewan.0001.desc.t2.hate.stubborn$"
- ep2_wedding_ewan.0001.desc.t2.love.calm:0 "\"Muito pensamento é dedicado ao equilíbrio certo de ruído de fundo,\" reflete [char_1.GetFirstNameNoTooltip], \"é bom ver um pouco sem #EMP demais#! agitação.\""
+ ep2_wedding_ewan.0001.desc.t2.love.calm:0 "\"É preciso cuidado para encontrar o equilíbrio certo de som ambiente,\" pondera [char_1.GetFirstNameNoTooltip]. \"É bom ter um pouco de animação, sem agitação #EMP em excesso#!.\""
  ep2_wedding_ewan.0001.desc.t2.love.compassionate:0 "$ep2_wedding_ewan.0001.desc.t2.love.content$"
  ep2_wedding_ewan.0001.desc.t2.love.content:0 "\"Ahh, a quantidade perfeita de animação para oferecer, eu diria,\" ri [char_1.GetFirstNameNoTooltip]."
  ep2_wedding_ewan.0001.desc.t2.love.cynical:0 "\"A quantidade correta de artistas e nada mais,\" observa [char_1.GetFirstNameNoTooltip] com ironia, \"ótimo, não suporto os esforçados demais.\""

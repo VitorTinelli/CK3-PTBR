@@ -52,7 +52,7 @@
  CLAIM_TITLE_HOLDER:0 "Detentor atual: [Claim.GetTitle.GetHolder.GetUIName]"
  CLAIM_TITLE_NOT_CREATED:0 "Título ainda não criado"
  CONCUBINES:0 "[concubines|E]"
- CONCUBINE_IS_VISIBLE_INFERTILE:0 "@warning_icon! #X Is Infertile#!"
+ CONCUBINE_IS_VISIBLE_INFERTILE:0 "@warning_icon! #X É Infértil#!"
  CONCUBINE_MAN:0 "[concubine_male|E]"
  CONCUBINE_MARRIAGE:0 "[concubinage|E]"
  CONCUBINE_WOMAN:0 "[concubine_female|E]"

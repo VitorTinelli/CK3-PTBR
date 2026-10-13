@@ -58,7 +58,7 @@ def main(test=False):
     workshop = re.search(r'^remote_file_id\s*=\s*"(\d+)"', old, re.M)
     installed_descriptor = descriptor
     if not test:
-        installed_descriptor += 'remote_file_id="3818855573"\n'
+        installed_descriptor += 'remote_file_id="3818924334"\n'
     mods.mkdir(parents=True, exist_ok=True)
     if target.exists():
         shutil.rmtree(target)
@@ -96,7 +96,7 @@ def main(test=False):
                         if not test:
                             connection.execute(
                                 "UPDATE mods SET remoteSteamId=? WHERE source='local' AND gameRegistryId=? AND dirPath=?",
-                                ('3818855573', 'mod/' + ident + '.mod', str(target)),
+                                ('3818924334', 'mod/' + ident + '.mod', str(target)),
                             )
                         print('Miniatura local registrada. Backup:', backup)
             except sqlite3.Error as error:

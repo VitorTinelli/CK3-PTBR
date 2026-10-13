@@ -329,7 +329,7 @@
  racehorse_name_faith_pope:0 "[ROOT.Char.GetFaith.GetReligiousHeadTitle|U]"
  racehorse_name_faith_priest_female:0 "[ROOT.Char.GetFaith.DevoteeMale|U]"
  racehorse_name_faith_priest_male:0 "[ROOT.Char.GetFaith.PriestMale|U]"
- racehorse_name_faith_symbol:0 "By the [ROOT.Char.GetFaith.ReligiousSymbol|U]"
+ racehorse_name_faith_symbol:0 "Pelo [ROOT.Char.GetFaith.ReligiousSymbol|U]"
  racehorse_name_faith_trickster_god:0 "Mão de [ROOT.Char.GetFaith.TricksterGodNamePossessive]"
  racehorse_name_faith_war_god:0 "Ira de [ROOT.Char.GetFaith.WarGodNamePossessive]"
  racehorse_name_faith_water_god:0 "Inundação de [ROOT.Char.GetFaith.WaterGodNamePossessive]"

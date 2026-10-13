@@ -68,7 +68,7 @@
  yearly.4081.d:0 "Tenho coisas melhores para gastar meu dinheiro."
  yearly.4081.desc:0 "Eruditos locais necessitam de patrocínios em seus esforços para traduzir livros do grego para o árabe, [ROOT.Char.Custom('FormOfAddressForLiege')] - esforços que beneficiam todo o mundo árabe!\n\n[councillor.Custom2('MyCharacterIntroduction', ROOT.Char)|U] trouxe-me uma lista de estudiosos que eu poderia patrocinar e os livros em que estão trabalhando atualmente."
  yearly.4081.e.tt:0 "Você patrocina a tradução de um livro sobre motivações"
- yearly.4081.e:0 "#EMP On the Soul#!? Fascinante..."
+ yearly.4081.e:0 "#EMP Sobre a Alma#!? Fascinante..."
  yearly.4081.f.tt:0 "Você patrocina a tradução de um livro sobre história militar"
  yearly.4081.f:0 "O que é isso... #EMP Thucydides#!?"
  yearly.4081.g.tt:0 "Você patrocina a tradução de um livro biográfico"

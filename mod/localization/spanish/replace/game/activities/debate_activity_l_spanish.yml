@@ -33,7 +33,7 @@
  activity_debate_selection_tooltip:0 "Sediar o [GetActivityType('activity_debate').GetName] para disputar poder político — assuma o controle para si ou para seu movimento $activity_debate_host_rewards$"
  activity_invite_rule_debate_movement_members:0 "Membros do [GetPlayer.Custom('GetMyMovement')]"
  activity_invite_rule_debate_movement_other_members:0 "Outros membros do movimento"
- activity_window_character_honorary_guest_leader:0 "[Concept('movement_leader','Challenged Leader')|E]\n[Character.GetShortUINameNoTooltip|U]"
+ activity_window_character_honorary_guest_leader:0 "[Concept('movement_leader','Líder Desafiado')|E]\n[Character.GetShortUINameNoTooltip|U]"
  apa_debate_brought_huangdi_gift_title:0 "$apa_brought_huangdi_gift_title$"
  apa_debate_entrant_disagreement_title:0 "$apa_entrant_disagreement_title$"
  apa_debate_found_disciple_title:0 "$apa_found_disciple_title$"

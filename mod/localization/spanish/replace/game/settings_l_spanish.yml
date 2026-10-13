@@ -104,7 +104,7 @@
  SETTING_STYLIZE_DEAD:0 "Estilizar personagens falecidos"
  SETTING_STYLIZE_DEAD_TOOLTIP:0 "#T $SETTING_STYLIZE_DEAD$#!\nDefine se os retratos idealizados de personagens falecidos usam um estilo \"pintado\", mostrando de relance que essa não era sua aparência real.\n\nAplica-se apenas enquanto $SETTING_BEAUTIFY_DEAD$ estiver ativado."
  SETTING_Sound_Effects:0 "Todos os Efeitos Sonoros"
- SETTING_Sound_Effects_TOOLTIP:0 "#T Sound Effects Volume\n#!Define o volume de TODOS os efeitos sonoros."
+ SETTING_Sound_Effects_TOOLTIP:0 "#T Volume dos Efeitos Sonoros\n#!Define o volume de TODOS os efeitos sonoros."
  SETTING_TILT_CAMERA_ON_ZOOM_OUT:0 "Inclinar a câmera ao afastar"
  SETTING_TILT_CAMERA_ON_ZOOM_OUT_TOOLTIP:0 "#T $SETTING_TILT_CAMERA_ON_ZOOM_OUT$#!\nDetermina se a câmera deve inclinar em direção à inclinação padrão ao afastar."
  SETTING_TOOLTIP_DELAY:0 "Atraso na Aba de Dicas"

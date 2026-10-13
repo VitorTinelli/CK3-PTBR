@@ -193,7 +193,7 @@
  message_filter_great_project_contribution_desc:0 "Um [great_project_contribution|E] de [great_projects|E] no qual você pode estar interessado recebe investimentos, ou sua recompensa foi distribuída após a conclusão"
  message_filter_great_project_desc:0 "Um [great_project|E] do seu interesse foi planejado, concluído ou cancelado"
  message_filter_great_schism_progress:0 "@religious_icon! Progresso do Grande Cisma"
- message_filter_great_schism_progress_desc:0 "A Cristandade avança em direção ao [Concept( 'schism', 'Great Schism')|E]"
+ message_filter_great_schism_progress_desc:0 "A Cristandade avança em direção ao [Concept( 'schism', 'Grande Cisma')|E]"
  message_filter_great_steppe:0 "@county_fertility_icon! A Grande Estepe"
  message_filter_great_steppe_desc:0 "Mudanças e desenvolvimentos relacionados à [the_great_steppe|E]"
  message_filter_head_of_faith_changed:0 "@religious_icon! Novo Chefe de Fé"

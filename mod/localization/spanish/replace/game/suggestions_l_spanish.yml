@@ -1,5 +1,5 @@
 ﻿l_spanish:
- SUGGESTIONS_DEBUG:0 "#D SUGGESTIONS DEBUG:#!"
+ SUGGESTIONS_DEBUG:0 "#D DEPURAÇÃO DE SUGESTÕES:#!"
  SUGGESTION_TITLE:0 "#T $NAME$#!"
  suggestion_can_hire_court_positions:0 "Contratar Posições de Corte"
  suggestion_can_hire_court_positions_click:0 "#Clique para ver as Posições de Corte disponíveis#!"

@@ -646,7 +646,7 @@
  magnificence_reduced_by_faction_tt:0 "[coronation_magnificence|E] foi #N prejudicada#! por uma [faction|E] que se opõe a [host.GetShortUIName]"
  magnificence_reduced_by_factions_tt:0 "[coronation_magnificence|E] foi #N prejudicada#! pelas [factions|E] que se opõem a [host.GetShortUIName]"
  mandala_coronation_low_feast:0 "[GetModifier('mandala_coronation_low_feast_modifier').GetNameWithTooltip]"
- mandala_coronation_low_feast_modifier:0 "Spurned Subjects"
+ mandala_coronation_low_feast_modifier:0 "Súditos Desprezados"
  mandala_coronation_low_feast_modifier_desc:0 "$ach_coronation_low_feast_modifier_desc$"
  martial_oath_1_decision:0 "$GetReconquerOathText$ [CoronationTimer('martial_oath_1_decision','martial_oath_1_decision_timer')]"
  martial_oath_1_decision_confirm:0 "$oath_decision_confirm$"

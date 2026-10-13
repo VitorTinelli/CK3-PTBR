@@ -81,7 +81,7 @@
  hold_court.6090.c:0 "A convivência pacífica é sempre a melhor solução."
  hold_court.6090.d:0 "[executioner.GetFirstNameNoTooltip], dê um exemplo com alguns descrentes."
  hold_court.6090.desc.almoner:0 "\n\n\"[ROOT.Char.Custom('FormOfAddressForLiege')|U] — se me permite\", interrompe [high_almoner.Custom2('MyCharacterIntroduction', ROOT.Char)], \"Talvez eles possam ser persuadidos ao receberem generosas esmolas dos fiéis à #EMP verdade#!\""
- hold_court.6090.desc.executioner:0 "\n\n\"I bet they just need #EMP a firm hand!#!\" says [executioner.Custom2('MyCharacterIntroduction', ROOT.Char)] with a dark smile."
+ hold_court.6090.desc.executioner:0 "\n\n\"Aposto que só precisam de #EMP uma mão firme!#!\", diz [executioner.Custom2('MyCharacterIntroduction', ROOT.Char)] com um sorriso sombrio."
  hold_court.6090.desc:0 "\"[ROOT.Char.Custom('FormOfAddressForLiege')|U], lamento informar que a situação religiosa em minhas terras está fora de controle...\n\n\"Tentei fazer com que meus súditos vissem a luz de nossa verdadeira fé, mas muitos deles persistem em suas crenças errôneas! Peço que você use sua autoridade e poder para me ajudar!\""
  hold_court.6090.e:0 "Isso parece ser um problema seu, não meu."
  hold_court.6090.t:0 "Hereges à Solta"

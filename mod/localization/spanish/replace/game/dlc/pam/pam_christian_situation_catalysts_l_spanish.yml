@@ -188,7 +188,7 @@
  catalyst_the_christian_church_great_holy_war_won:0 "$catalyst_the_christian_church_great_holy_war_won_desc$"
  catalyst_the_christian_church_great_holy_war_won_desc:0 "Um [ruler|E] [christian|E] vence uma [great_holy_war|E]"
  catalyst_the_christian_church_great_schism:0 "$catalyst_the_christian_church_great_schism_desc$"
- catalyst_the_christian_church_great_schism_desc:0 "O [Concept( 'schism', 'Great Schism')|E] torna-se inevitável"
+ catalyst_the_christian_church_great_schism_desc:0 "O [Concept( 'schism', 'Grande Cisma')|E] torna-se inevitável"
  catalyst_the_christian_church_head_of_faith_has_child:0 "$catalyst_the_christian_church_head_of_faith_has_child_desc$"
  catalyst_the_christian_church_head_of_faith_has_child_desc:0 "[head_of_faith|E] tem um filho"
  catalyst_the_christian_church_head_of_faith_marries:0 "$catalyst_the_christian_church_head_of_faith_marries_desc$"

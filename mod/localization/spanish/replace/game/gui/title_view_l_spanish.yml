@@ -113,7 +113,7 @@
  TITLE_VIEW_APPOINTMENT_TOOLTIP:0 "#T Ver sucessão de nomeações#!\nO título seguirá [Title.GetHolder.GetPrimaryTitle.GetName]"
  TITLE_VIEW_BARONY_NO_DEJURE:0 "[baronies|E] nunca tem nenhum Título [de_jure|E] abaixo deles"
  TITLE_VIEW_BUILDING_TYPE:0 "Tipo de Edificio: [Holding.GetType.GetName]"
- TITLE_VIEW_CANNOT_GRANT_CLERICAL_REGION:0 "Um [Concept( 'head_of_rite', 'Head')|E] de [mainline_rite|E] pode conceder este [clerical_title|E] se o [faith|E] controlar o [clerical_region_capital|E] e usar [clerical_regions|E]"
+ TITLE_VIEW_CANNOT_GRANT_CLERICAL_REGION:0 "Um [Concept( 'head_of_rite', 'Chefe')|E] de [mainline_rite|E] pode conceder este [clerical_title|E] se o [faith|E] controlar o [clerical_region_capital|E] e usar [clerical_regions|E]"
  TITLE_VIEW_CANT_HAVE_CLAIMS:0 "#weak Não pode ter reivindicações sobre este [title|E]#!"
  TITLE_VIEW_CANT_HAVE_CLAIMS_TT:0 "É impossível ter reivindicações de títulos para [mercenary_company|E], [holy_orders|E], [baronies|E] e [head_of_faith|E]"
  TITLE_VIEW_CLAIMANTS:0 "Reivindicadores: [TitleViewWindow.GetNumberOfClaimants]"

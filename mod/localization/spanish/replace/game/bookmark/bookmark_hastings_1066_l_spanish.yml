@@ -32,7 +32,7 @@
  bookmark_hastings_scotland_alt_duncan:0 "$Duncan$"
  bookmark_hastings_scotland_desc:0 "Conhecido na Escócia como o \"Grande Chefe\", A situação de Malcolm III é tênue, mas cheia de oportunidades. Ao sul, as ricas terras da Nortúmbria ficam vulneráveis enquanto a Inglaterra é dilacerada pela guerra, mas os senhores da guerra nórdicos e os gaélicos das montanhas ainda contestam o governo do rei em casa.\n\n#bold As Ilhas Britânicas estão repletas de perigos e oportunidades: você pode colher uma rosa deste jardim de espinhos?#!"
  bookmark_hastings_scotland_subheading:0 "$BOOKMARK_SUBHEADING_DEFAULT$"
- debug_bm_1340_history:0 "#D History Debug: 1340#!"
+ debug_bm_1340_history:0 "#D Depuração Histórica: 1340#!"
  debug_bm_1340_history_desc:0 "Execute isto para depurar arquivos de histórico até 1340"
  war_1066_Harald_Invasion:0 "Invasão Norueguesa sobre a Inglaterra"
  war_1066_Norman_Conquest:0 "Conquista de Normanda sobre a Inglaterra"

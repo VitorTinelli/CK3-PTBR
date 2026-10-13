@@ -5,7 +5,7 @@
  SITUATION_NATURAL_DISASTER_PARTICIPANT_WINDOW_HEADER_SINGLE_SUBREGION:0 "Personagens afetados por [Situation.GetNameNoTooltip]"
  amur_river_region:0 "$river_amur$"
  councillor_assigned_to_manage_disaster:0 "Seu [GetPlayer.Custom('GetCouncillorForDisasterRecovery')] está designado para gerenciar os esforços de recuperação do [natural_disaster|E]. Eles estarão indisponíveis para outras tarefas até que o [great_project|E] Disaster Relief seja concluído."
- councillor_busy_managing_disaster:0 "Seu [GetPlayer.Custom('GetCouncillorForDisasterRecovery')] está ocupado gerenciando os esforços de recuperação do [natural_disaster|E]. Complete o [great_project|E] Disaster Relief para torná-lo disponível novamente."
+ councillor_busy_managing_disaster:0 "Seu [GetPlayer.Custom('GetCouncillorForDisasterRecovery')] está ocupado gerenciando os esforços de recuperação do [natural_disaster|E]. Complete o [great_project|E] Socorro em Desastres para torná-lo disponível novamente."
  councillor_is_available_for_disaster_recovery:0 "Seu [GetPlayer.Custom('GetCouncillorForDisasterRecovery')] está disponível para gerenciar os esforços de recuperação do [natural_disaster|E]."
  councillor_is_available_for_disaster_recovery_entourage:0 "Membro do [entourage|E]"
  councillor_is_available_for_disaster_recovery_kurultai:0 "[kurultai|E]"
