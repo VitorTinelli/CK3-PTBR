@@ -4,7 +4,7 @@ import re
 ROOT=Path(__file__).resolve().parents[1]
 ENTRY=re.compile(r'^\s*([^\s:#]+):\d*\s*"((?:[^"\\]|\\.)*)"\s*$')
 def validate():
-    keys=set();errors=[];files=list((ROOT/'mod/localization').rglob('*.yml'))
+    keys=set();values={};errors=[];files=list((ROOT/'mod/localization').rglob('*.yml'))
     for p in files:
         raw=p.read_bytes()
         if not raw.startswith(b'\xef\xbb\xbf'):errors.append(f'{p.relative_to(ROOT)}: falta BOM UTF-8')
@@ -16,7 +16,13 @@ def validate():
             m=ENTRY.fullmatch(line)
             if not m:errors.append(f'{p.relative_to(ROOT)}:{n}: sintaxe inválida');continue
             if m[1] in keys:errors.append(f'{p.relative_to(ROOT)}:{n}: chave duplicada {m[1]}')
-            keys.add(m[1])
+            keys.add(m[1]);values[m[1]]=m[2]
+    # Engine link commands and requirement markers must retain their exact syntax.
+    for reference in ('trigger-format.txt', 'tooltip-format.txt'):
+        for line in (ROOT/'qa'/reference).read_text(encoding='utf-8').splitlines():
+            m=ENTRY.fullmatch(line)
+            if not m:errors.append('Referência de formatação inválida: '+line);continue
+            if values.get(m[1])!=m[2]:errors.append('Formatação técnica alterada: '+m[1])
     required=set((ROOT/'qa/required-keys.txt').read_text().splitlines())
     for k in sorted(required-keys):errors.append('Chave obrigatória ausente: '+k)
     descriptor=(ROOT/'mod/descriptor.mod').read_text()

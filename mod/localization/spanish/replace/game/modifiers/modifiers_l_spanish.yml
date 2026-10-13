@@ -112,7 +112,7 @@
  MOD_DEVELOPMENT_PREFIX:0 "[development_i]"
  MOD_DIFFERENT_CULTURE_OPINION:0 "Opinião de diferentes [cultures|E]"
  MOD_DIFFERENT_FAITH_LIEGE_OPINION:0 "Opinião do [liege|E] de outra [faith|E]"
- MOD_DIFFERENT_FAITH_OPINION:0 "Opinião de diferentes [faith|E]"
+ MOD_DIFFERENT_FAITH_OPINION:0 "Opinião de personagens de outras [Concept('faith', 'fés')|E]"
  MOD_DIFFERENT_FAITH_SUZERAIN_OPINION:0 "Opinião do [suzerain|E] de Diferente [faith|E]"
  MOD_DIPLOMACY:0 "[diplomacy|E]"
  MOD_DIPLOMACY_MULT:0 "[diplomacy|E]"

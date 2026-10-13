@@ -73,7 +73,7 @@
  DOMICILE_WINDOW_UNDER_CONSTRUCTION_STATUS:0 "Construindo [DOMICILE_BUILDING_TYPE.GetNameNoTooltip] (terminando em $DATE$)"
  DOMICILE_WINDOW_UNDER_CONSTRUCTION_TT:0 "$DAYS$ restantes"
  DOMICILE_WINDOW_UPGRADE_AVAILABLE:0 "Atualização disponível"
- DOMICILE_WINDOW_YOUR_DOMICILE:0 "Seu [DOMICILE.GetType.GetNameNoTooltip]"
+ DOMICILE_WINDOW_YOUR_DOMICILE:0 "[Select_CString( EqualTo_string( DOMICILE.GetType.GetNameNoTooltip, Localize('estate_domicile_type') ), 'Sua', 'Seu' )] [DOMICILE.GetType.GetNameNoTooltip]"
  HIDE_UI_BUTON_TEXT_HIDE:0 "#T Ocultar UI"
  HIDE_UI_BUTTON_TEXT_SHOW:0 "#T Mostrar UI"
  MOVE_CAMP_BUTTON_TEXT:0 "@camp_travel_domicile_icon! Mover Acampamento"

@@ -27,7 +27,7 @@
  ARTIFACT_FULLY_REPAIRED:0 "[ARTIFACT.GetName] será completamente reparado e restaurado"
  ARTIFACT_HISTORY:0 "Histórico do Artefato"
  ARTIFACT_HOUSE_CLAIM:0 "Reivindicação de Casa"
- ARTIFACT_IS_HOLY_RELIC:0 "É [holy_relic|E] #underline #TOOLTIP:ARTIFACT_IS_HOLY_RELIC_BREAKDOWN [Select_CString( Artifact.IsHolyRelicFor( Faith.Self ), 'for', 'but #n not#! for')]#!#! [Faith.GetName]"
+ ARTIFACT_IS_HOLY_RELIC:0 "É uma [holy_relic|E] #underline #TOOLTIP:ARTIFACT_IS_HOLY_RELIC_BREAKDOWN [Select_CString( Artifact.IsHolyRelicFor( Faith.Self ), 'para', 'mas #n não#! para')]#!#! [Faith.GetName]"
  ARTIFACT_IS_HOLY_RELIC_BREAKDOWN:0 "Requisitos de #T [holy_relic|E]#!\n [Artifact.GetIsHolyRelicForDesc( GetPlayer.GetFaith.Self )]"
  ARTIFACT_PERSONAL_CLAIM:0 "Reivindicação Pessoal"
  ARTIFACT_RARITY_AND_SLOT_TYPE:0 "[ARTIFACT.GetSlotType] [ARTIFACT.GetRarity]"

@@ -37,7 +37,23 @@ python3 tools/validate.py
 python3 tools/build.py
 ```
 
-O pacote será criado em `dist/ck3-ptbr-completo.zip`. As verificações também são executadas pelo GitHub Actions nas propostas de alteração.
+Para gerar e instalar uma edição separada para testes:
+
+```bash
+python3 tools/build_test.py
+```
+
+Ela aparece no launcher como `[TESTE LOCAL] CK3 PT-BR 1.20+ (By god alone)` e usa a pasta `ck3_ptbr_teste`.
+
+Para gerar e instalar a edição com o nome oficial, pronta para envio manual pelo launcher à Steam:
+
+```bash
+python3 tools/build_steam.py
+```
+
+Os pacotes e pastas de publicação ficam em `dist/teste/` e `dist/steam/`. Ambos aceitam `--no-install` para somente gerar os arquivos ou `--user-dir "CAMINHO/Paradox Interactive/Crusader Kings III"` para escolher a pasta de dados. A edição oficial preserva o `remote_file_id` de uma instalação oficial anterior gerenciada pelo instalador; a edição de teste não herda esse identificador. Ative apenas uma edição da tradução por vez.
+
+O comando antigo `tools/build.py` continua gerando `dist/ck3-ptbr-completo.zip`. As verificações também são executadas pelo GitHub Actions nas propostas de alteração.
 
 A validação automática confere o formato dos arquivos e a presença das chaves esperadas. Ela não substitui a revisão linguística nem os [testes no jogo](docs/TESTAR.md).
 

@@ -232,7 +232,7 @@
  doctrine_parameter_tenet_divine_marriage_incestuous_liege_faction_reluctance:0 "Os adeptos são significativamente menos propensos a criar ou entrar em [factions|E] contra um [liege|E] casado com [close_family|E] ou [extended_family|E]"
  doctrine_parameter_tenet_divine_marriage_spouse_contribution:0 "Contribuição de [skills|E] do [spouse|E] [councillor_tasks|E]: #P +25%#!"
  doctrine_parameter_tenet_eastern_syncretism_study_rite_bonus:0 "[GetScheme('study_faith').GetTypeName] [scheme_success_chance|E]: [success_chance_i]#P +15%#!"
- doctrine_parameter_tenet_esotericism_eccentric_bonuses:0 "O [GetTrait('eccentric').GetName( GetNullCharacter )] [trait|E] concede @piety_icon![piety|E] e [opinion|E] adicionais, e custa menos [stress|E]"
+ doctrine_parameter_tenet_esotericism_eccentric_bonuses:0 "O [trait|E] [GetTrait('eccentric').GetName( GetNullCharacter )] concede bônus adicionais de @piety_icon![piety|E] e [opinion|E], além de reduzir o custo em [stress|E]"
  doctrine_parameter_tenet_esotericism_eccentric_education:0 "Crianças com o [learning|E] [education_focus|E] podem desenvolver [GetTrait('eccentric').GetName( GetNullCharacter )]"
  doctrine_parameter_tenet_esotericism_mystic_education:0 "Crianças com o [education_focus|E] em [learning|E] podem adquirir a característica [GetTrait('lifestyle_mystic').GetName( GetNullCharacter )] se se saírem bem em seus estudos."
  doctrine_parameter_tenet_esotericism_seek_spiritual_mysteries:0 "Desbloqueia a $seek_spiritual_mysteries_decision$ [decision|E]"
